@@ -1,0 +1,946 @@
+"","State.province","Elevation.m.","Latitude","Genus","Taxon","FullTax","Sp.abund","Plot.abund","Weights"
+"1","Guanacaste",3,"10.9257","Spondias","Spondias purpurea","Anacardiaceae/Spondias/Spondias_purpurea",2,225,0.00888888888888889
+"3","Guanacaste",3,"10.9257","Stemmadenia","Stemmadenia pubescens","Apocynaceae/Stemmadenia/Stemmadenia_pubescens",2,225,0.00888888888888889
+"5","Guanacaste",3,"10.9257","Acrocomia","Acrocomia aculeata","Arecaceae/Acrocomia/Acrocomia_aculeata",8,225,0.0355555555555556
+"13","Guanacaste",3,"10.9257","Arrabidaea","Arrabidaea patellifera","Bignoniaceae/Arrabidaea/Arrabidaea_patellifera",20,225,0.0888888888888889
+"33","Guanacaste",3,"10.9257","Bignonia","Bignonia aequinoctialis","Bignoniaceae/Bignonia/Bignonia_aequinoctialis",1,225,0.00444444444444444
+"34","Guanacaste",3,"10.9257","BignoniaceaeIndet","BignoniaceaeIndet sp6","Bignoniaceae/BignoniaceaeIndet/BignoniaceaeIndet_sp6",11,225,0.0488888888888889
+"45","Guanacaste",3,"10.9257","Tabebuia","Tabebuia ochracea","Bignoniaceae/Tabebuia/Tabebuia_ochracea",19,225,0.0844444444444444
+"64","Guanacaste",3,"10.9257","Tabebuia","Tabebuia rosea","Bignoniaceae/Tabebuia/Tabebuia_rosea",4,225,0.0177777777777778
+"68","Guanacaste",3,"10.9257","Cordia","Cordia alliodora","Boraginaceae/Cordia/Cordia_alliodora",61,225,0.271111111111111
+"129","Guanacaste",3,"10.9257","Semialarium","Semialarium paniculatum","Celastraceae/Semialarium/Semialarium_paniculatum",2,225,0.00888888888888889
+"131","Guanacaste",3,"10.9257","Cochlospermum","Cochlospermum vitifolium","Bixaceae/Cochlospermum/Cochlospermum_vitifolium",1,225,0.00444444444444444
+"132","Guanacaste",3,"10.9257","Vachellia","Vachellia collinsii","Fabaceae/Vachellia/Vachellia_collinsii",14,225,0.0622222222222222
+"146","Guanacaste",3,"10.9257","Albizia","Albizia adinocephala","Fabaceae/Albizia/Albizia_adinocephala",1,225,0.00444444444444444
+"147","Guanacaste",3,"10.9257","Bauhinia","Bauhinia ungulata","Fabaceae/Bauhinia/Bauhinia_ungulata",4,225,0.0177777777777778
+"151","Guanacaste",3,"10.9257","Lonchocarpus","Lonchocarpus costaricensis","Fabaceae/Lonchocarpus/Lonchocarpus_costaricensis",9,225,0.04
+"160","Guanacaste",3,"10.9257","Lonchocarpus","Lonchocarpus parviflorus","Fabaceae/Lonchocarpus/Lonchocarpus_parviflorus",16,225,0.0711111111111111
+"176","Guanacaste",3,"10.9257","Machaerium","Machaerium biovulatum","Fabaceae/Machaerium/Machaerium_biovulatum",2,225,0.00888888888888889
+"178","Guanacaste",3,"10.9257","Myrospermum","Myrospermum frutescens","Fabaceae/Myrospermum/Myrospermum_frutescens",5,225,0.0222222222222222
+"183","Guanacaste",3,"10.9257","Platymiscium","Platymiscium parviflorum","Fabaceae/Platymiscium/Platymiscium_parviflorum",10,225,0.0444444444444444
+"193","Guanacaste",3,"10.9257","Samanea","Samanea saman","Fabaceae/Samanea/Samanea_saman",1,225,0.00444444444444444
+"194","Guanacaste",3,"10.9257","Casearia","Casearia corymbosa","Salicaceae/Casearia/Casearia_corymbosa",11,225,0.0488888888888889
+"205","Guanacaste",3,"10.9257","Guazuma","Guazuma ulmifolia","Malvaceae/Guazuma/Guazuma_ulmifolia",15,225,0.0666666666666667
+"220","Guanacaste",3,"10.9257","Pisonia","Pisonia macranthocarpa","Nyctaginaceae/Pisonia/Pisonia_macranthocarpa",2,225,0.00888888888888889
+"222","Guanacaste",3,"10.9257","Genipa","Genipa americana","Rubiaceae/Genipa/Genipa_americana",2,225,0.00888888888888889
+"224","Guanacaste",3,"10.9257","Serjania","Serjania Indet","Sapindaceae/Serjania/Serjania_indet",1,225,0.00444444444444444
+"225","Guanacaste",3,"10.9257","Rehdera","Rehdera trinervis","Verbenaceae/Rehdera/rehdera_trinervis",1,225,0.00444444444444444
+"226","Guanacaste",289,"10.5037","Aphelandra","Aphelandra scabra","Acanthaceae/Aphelandra/Aphelandra_scabra",1,282,0.00354609929078014
+"227","Guanacaste",289,"10.5037","Astronium","Astronium graveolens","Anacardiaceae/Astronium/Astronium_graveolens",3,282,0.0106382978723404
+"230","Guanacaste",289,"10.5037","Annona","Annona purpurea","Annonaceae/Annona/Annona_purpurea",1,282,0.00354609929078014
+"231","Guanacaste",289,"10.5037","Desmopsis","Desmopsis bibracteata","Annonaceae/Desmopsis/Desmopsis_bibracteata",1,282,0.00354609929078014
+"232","Guanacaste",289,"10.5037","Cordia","Cordia panamensis","Boraginaceae/Cordia/Cordia_panamensis",1,282,0.00354609929078014
+"233","Guanacaste",289,"10.5037","Bursera","Bursera simaruba","Burseraceae/Bursera/Bursera_simaruba",1,282,0.00354609929078014
+"234","Guanacaste",289,"10.5037","Bursera","Bursera tomentosa","Burseraceae/Bursera/Bursera_tomentosa",2,282,0.00709219858156028
+"236","Guanacaste",289,"10.5037","Hippocratea","Hippocratea volubilis","Celastraceae/Hippocratea/Hippocratea_volubilis",7,282,0.024822695035461
+"243","Guanacaste",289,"10.5037","Maytenus","Maytenus segoviarum","Celastraceae/Maytenus/Maytenus_segoviarum",4,282,0.0141843971631206
+"247","Guanacaste",289,"10.5037","Hirtella","Hirtella racemosa","Chrysobalanaceae/Hirtella/Hirtella_racemosa",42,282,0.148936170212766
+"289","Guanacaste",289,"10.5037","Garcinia","Garcinia intermedia","Clusiaceae/Garcinia/Garcinia_intermedia",5,282,0.0177304964539007
+"294","Guanacaste",289,"10.5037","Rourea","Rourea glabra","Connaraceae/Rourea/Rourea_glabra",3,282,0.0106382978723404
+"297","Guanacaste",289,"10.5037","Tetracera","Tetracera volubilis","Dilleniaceae/Tetracera/Tetracera_volubilis",5,282,0.0177304964539007
+"302","Guanacaste",289,"10.5037","Sloanea","Sloanea terniflora","Elaeocarpaceae/Sloanea/Sloanea_terniflora",3,282,0.0106382978723404
+"305","Guanacaste",289,"10.5037","Sebastiania","Sebastiania pavoniana","Euphorbiaceae/Sebastiania/Sebastiania_pavoniana",18,282,0.0638297872340425
+"323","Guanacaste",289,"10.5037","Hymenaea","Hymenaea courbaril","Fabaceae/Hymenaea/Hymenaea_courbaril",12,282,0.0425531914893617
+"335","Guanacaste",289,"10.5037","Machaerium","Machaerium pittieri","Fabaceae/Machaerium/Machaerium_pittieri",1,282,0.00354609929078014
+"336","Guanacaste",289,"10.5037","Swartzia","Swartzia cubensis","Fabaceae/Swartzia/Swartzia_cubensis",2,282,0.00709219858156028
+"338","Guanacaste",289,"10.5037","Lysiloma","Lysiloma divaricatum","Fabaceae/Lysiloma/Lysiloma_divaricatum",4,282,0.0141843971631206
+"342","Guanacaste",289,"10.5037","Machaerium","Machaerium kegelii","Fabaceae/Machaerium/Machaerium_kegelii",1,282,0.00354609929078014
+"343","Guanacaste",289,"10.5037","Quercus","Quercus oleoides","Fagaceae/Quercus/Quercus_oleoides",3,282,0.0106382978723404
+"346","Guanacaste",289,"10.5037","Casearia","Casearia praecox","Salicaceae/Casearia/Casearia_praecox",3,282,0.0106382978723404
+"349","Guanacaste",289,"10.5037","Casearia","Casearia sylvestris","Salicaceae/Casearia/Casearia_sylvestris",6,282,0.0212765957446809
+"355","Guanacaste",289,"10.5037","Ocotea","Ocotea veraguensis","Lauraceae/Ocotea/Ocotea_veraguensis",8,282,0.0283687943262411
+"363","Guanacaste",289,"10.5037","Mouriri","Mouriri myrtilloides","Melastomataceae/Mouriri/Mouriri_myrtilloides",17,282,0.0602836879432624
+"380","Guanacaste",289,"10.5037","Brosimum","Brosimum alicastrum","Moraceae/Brosimum/Brosimum_alicastrum",19,282,0.0673758865248227
+"399","Guanacaste",289,"10.5037","Castilla","Castilla elastica","Moraceae/Castilla/Castilla_elastica",3,282,0.0106382978723404
+"402","Guanacaste",289,"10.5037","Ficus","Ficus citrifolia","Moraceae/Ficus/Ficus_citrifolia",1,282,0.00354609929078014
+"403","Guanacaste",289,"10.5037","Ardisia","Ardisia revoluta","Primulaceae/Ardisia/Ardisia_revoluta",2,282,0.00709219858156028
+"405","Guanacaste",289,"10.5037","Eugenia","Eugenia monticola","Myrtaceae/Eugenia/Eugenia_monticola",20,282,0.0709219858156028
+"425","Guanacaste",289,"10.5037","Ouratea","Ouratea lucens","Ochnaceae/Ouratea/Ouratea_lucens",5,282,0.0177304964539007
+"430","Guanacaste",289,"10.5037","Margaritaria","Margaritaria nobilis","Phyllanthaceae/Margaritaria/Margaritaria_nobilis",1,282,0.00354609929078014
+"431","Guanacaste",289,"10.5037","Picramnia","Picramnia antidesma","Picramniaceae/Picramnia/Picramnia_antidesma",21,282,0.074468085106383
+"452","Guanacaste",289,"10.5037","Krugiodendron","Krugiodendron ferreum","Rhamnaceae/Krugiodendron/Krugiodendron_ferreum",3,282,0.0106382978723404
+"455","Guanacaste",289,"10.5037","Alibertia","Alibertia edulis","Rubiaceae/Alibertia/Alibertia_edulis",2,282,0.00709219858156028
+"457","Guanacaste",289,"10.5037","Exostema","Exostema mexicanum","Rubiaceae/Exostema/Exostema_mexicanum",5,282,0.0177304964539007
+"462","Guanacaste",289,"10.5037","Faramea","Faramea occidentalis","Rubiaceae/Faramea/Faramea_occidentalis",2,282,0.00709219858156028
+"464","Guanacaste",289,"10.5037","Genipa","Genipa americana","Rubiaceae/Genipa/Genipa_americana",1,282,0.00354609929078014
+"465","Guanacaste",289,"10.5037","Guettarda","Guettarda macrosperma","Rubiaceae/Guettarda/Guettarda_macrosperma",7,282,0.024822695035461
+"472","Guanacaste",289,"10.5037","Randia","Randia monantha","Rubiaceae/Randia/Randia_monantha",1,282,0.00354609929078014
+"473","Guanacaste",289,"10.5037","Zanthoxylum","Zanthoxylum setulosum","Rutaceae/Zanthoxylum/Zanthoxylum_setulosum",1,282,0.00354609929078014
+"474","Guanacaste",289,"10.5037","Zuelania","Zuelania guidonia","Salicaceae/Zuelania/Zuelania_guidonia",2,282,0.00709219858156028
+"476","Guanacaste",289,"10.5037","Cupania","Cupania guatemalensis","Sapindaceae/Cupania/Cupania_guatemalensis",7,282,0.024822695035461
+"483","Guanacaste",289,"10.5037","Dilodendron","Dilodendron costaricense","Sapindaceae/Dilodendron/Dilodendron_costaricense",5,282,0.0177304964539007
+"488","Guanacaste",289,"10.5037","Paullinia","Paullinia cururu","Sapindaceae/Paullinia/Paullinia_cururu",2,282,0.00709219858156028
+"490","Guanacaste",289,"10.5037","Manilkara","Manilkara chicle","Sapotaceae/Manilkara/Manilkara_chicle",9,282,0.0319148936170213
+"499","Guanacaste",289,"10.5037","Sideroxylon","Sideroxylon capiri","Sapotaceae/Sideroxylon/Sideroxylon_capiri",2,282,0.00709219858156028
+"501","Guanacaste",289,"10.5037","Simarouba","Simarouba glauca","Simaroubaceae/Simarouba/Simarouba_glauca",2,282,0.00709219858156028
+"503","Guanacaste",289,"10.5037","Luehea","Luehea speciosa","Malvaceae/Luehea/Luehea_speciosa",5,282,0.0177304964539007
+"508","Guanacaste",685,"10.9543","Unonopsis","NULL","Annonaceae/Unonopsis/Unonopsis_sp1",2,340,0.00588235294117647
+"510","Guanacaste",685,"10.9543","Stemmadenia","NULL","Apocynaceae/Stemmadenia/Stemmadenia_sp3",1,340,0.00294117647058824
+"511","Guanacaste",685,"10.9543","Stemmadenia","NULL","Apocynaceae/Stemmadenia/Stemmadenia_sp1",2,340,0.00588235294117647
+"513","Guanacaste",685,"10.9543","Stemmadenia","NULL","Apocynaceae/Stemmadenia/Stemmadenia_sp2",4,340,0.0117647058823529
+"517","Guanacaste",685,"10.9543","Ilex","NULL","Aquifoliaceae/Ilex/Ilex_sp1",2,340,0.00588235294117647
+"519","Guanacaste",685,"10.9543","Ilex","Ilex haberi","Aquifoliaceae/Ilex/Ilex_haberi",2,340,0.00588235294117647
+"521","Guanacaste",685,"10.9543","Ardisia","Ardisia revoluta","Primulaceae/Ardisia/Ardisia_revoluta",1,340,0.00294117647058824
+"522","Guanacaste",685,"10.9543","Pouteria","NULL","Sapotaceae/Pouteria/Pouteria_sp4",1,340,0.00294117647058824
+"523","Guanacaste",685,"10.9543","Pachira","Pachira aquatica","Malvaceae/Pachira/Pachira_aquatica",1,340,0.00294117647058824
+"524","Guanacaste",685,"10.9543","Diospyros","Diospyros blancoi","Ebenaceae/Diospyros/Diospyros_blancoi",2,340,0.00588235294117647
+"526","Guanacaste",685,"10.9543","Ficus","Ficus obtusifolia","Moraceae/Ficus/Ficus_obtusifolia",1,340,0.00294117647058824
+"527","Guanacaste",685,"10.9543","Bursera","Bursera simaruba","Burseraceae/Bursera/Bursera_simaruba",1,340,0.00294117647058824
+"528","Guanacaste",685,"10.9543","BignoniaceaeIndet.","NULL","Bignoniaceae/BignoniaceaeIndet/BignoniaceaeIndet_sp2",12,340,0.0352941176470588
+"531","Guanacaste",685,"10.9543","Doliocarpus","Doliocarpus dentatus","Dilleniaceae/Doliocarpus/Doliocarpus_dentatus",5,340,0.0147058823529412
+"534","Guanacaste",685,"10.9543","Tapirira","Tapirira mexicana","Anacardiaceae/Tapirira/Tapirira_mexicana",3,340,0.00882352941176471
+"537","Guanacaste",685,"10.9543","Xylopia","NULL","Annonaceae/Xylopia/Xylopia_sp1",1,340,0.00294117647058824
+"538","Guanacaste",685,"10.9543","Ilex","Ilex skutchii","Aquifoliaceae/Ilex/Ilex_skutchii",1,340,0.00294117647058824
+"539","Guanacaste",685,"10.9543","Dendropanax","Dendropanax arboreus","Araliaceae/Dendropanax/Dendropanax_arboreus",3,340,0.00882352941176471
+"542","Guanacaste",685,"10.9543","Cydista","NULL","Bignoniaceae/Cydista/Cydista_sp1",2,340,0.00588235294117647
+"544","Guanacaste",685,"10.9543","BignoniaceaeIndet.","NULL","Bignoniaceae/BignoniaceaeIndet/BignoniaceaeIndet_sp4",2,340,0.00588235294117647
+"546","Guanacaste",685,"10.9543","BignoniaceaeIndet.","NULL","Bignoniaceae/BignoniaceaeIndet/BignoniaceaeIndet_sp5",1,340,0.00294117647058824
+"547","Guanacaste",685,"10.9543","BignoniaceaeIndet.","NULL","Bignoniaceae/BignoniaceaeIndet/BignoniaceaeIndet_sp1",1,340,0.00294117647058824
+"548","Guanacaste",685,"10.9543","BignoniaceaeIndet.","NULL","Bignoniaceae/BignoniaceaeIndet/BignoniaceaeIndet_sp3",1,340,0.00294117647058824
+"558","Guanacaste",685,"10.9543","Rochefortia","Rochefortia spinosa","Boraginaceae/Rochefortia/Rochefortia_spinosa",4,340,0.0117647058823529
+"562","Guanacaste",685,"10.9543","Bourreria","Bourreria quirosii","Boraginaceae/Bourreria/Bourreria_quirosii",2,340,0.00588235294117647
+"564","Guanacaste",685,"10.9543","Maytenus","Maytenus segoviarum","Celastraceae/Maytenus/Maytenus_segoviarum",1,340,0.00294117647058824
+"565","Guanacaste",685,"10.9543","Licania","Licania riverae","Chrysobalanaceae/Licania/Licania_riverae",2,340,0.00588235294117647
+"567","Guanacaste",685,"10.9543","Hirtella","Hirtella racemosa","Chrysobalanaceae/Hirtella/Hirtella_racemosa",16,340,0.0470588235294118
+"578","Guanacaste",685,"10.9543","Hippocratea","Hippocratea volubilis","Celastraceae/Hippocratea/Hippocratea_volubilis",12,340,0.0352941176470588
+"586","Guanacaste",685,"10.9543","Garcinia","Garcinia intermedia","Clusiaceae/Garcinia/Garcinia_intermedia",1,340,0.00294117647058824
+"587","Guanacaste",685,"10.9543","Calophyllum","Calophyllum brasiliense","Calophyllaceae/Calophyllum/Calophyllum_brasiliense",1,340,0.00294117647058824
+"588","Guanacaste",685,"10.9543","Drypetes","NULL","Putranjivaceae/Drypetes/Drypetes_sp1",1,340,0.00294117647058824
+"589","Guanacaste",685,"10.9543","Swartzia","Swartzia cubensis","Fabaceae/Swartzia/Swartzia_cubensis",7,340,0.0205882352941176
+"596","Guanacaste",685,"10.9543","Machaerium","Machaerium kegelii","Fabaceae/Machaerium/Machaerium_kegelii",1,340,0.00294117647058824
+"597","Guanacaste",685,"10.9543","Machaerium","Machaerium seemannii","Fabaceae/Machaerium/Machaerium_seemannii",1,340,0.00294117647058824
+"598","Guanacaste",685,"10.9543","Inga","Inga densiflora","Fabaceae/Inga/Inga_densiflora",6,340,0.0176470588235294
+"604","Guanacaste",685,"10.9543","Inga","Inga exalata","Fabaceae/Inga/Inga_exalata",1,340,0.00294117647058824
+"605","Guanacaste",685,"10.9543","Inga","Inga punctata","Fabaceae/Inga/Inga_punctata",1,340,0.00294117647058824
+"606","Guanacaste",685,"10.9543","Inga","Inga umbellifera","Fabaceae/Inga/Inga_umbellifera",1,340,0.00294117647058824
+"607","Guanacaste",685,"10.9543","Cynometra","Cynometra retusa","Fabaceae/Cynometra/Cynometra_retusa",1,340,0.00294117647058824
+"608","Guanacaste",685,"10.9543","Xylosma","Xylosma chlorantha","Salicaceae/Xylosma/Xylosma_chlorantha",2,340,0.00588235294117647
+"610","Guanacaste",685,"10.9543","Casearia","Casearia coronata","Salicaceae/Casearia/Casearia_coronata",2,340,0.00588235294117647
+"612","Guanacaste",685,"10.9543","Casearia","Casearia hirsuta","Salicaceae/Casearia/Casearia_hirsuta",1,340,0.00294117647058824
+"613","Guanacaste",685,"10.9543","Salacia","Salacia petenensis","Celastraceae/Salacia/Salacia_petenensis",10,340,0.0294117647058824
+"634","Guanacaste",685,"10.9543","Alfaroa","Alfaroa guanacastensis","Juglandaceae/Alfaroa/Alfaroa_guanacastensis",3,340,0.00882352941176471
+"637","Guanacaste",685,"10.9543","Ocotea","Ocotea floribunda","Lauraceae/Ocotea/Ocotea_floribunda",2,340,0.00588235294117647
+"639","Guanacaste",685,"10.9543","Nectandra","Nectandra salicina","Lauraceae/Nectandra/Nectandra_salicina",2,340,0.00588235294117647
+"641","Guanacaste",685,"10.9543","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp5",2,340,0.00588235294117647
+"643","Guanacaste",685,"10.9543","Hiraea","Hiraea reclinata","Malpighiaceae/Hiraea/Hiraea_reclinata",4,340,0.0117647058823529
+"647","Guanacaste",685,"10.9543","Mouriri","Mouriri myrtilloides","Melastomataceae/Mouriri/Mouriri_myrtilloides",2,340,0.00588235294117647
+"649","Guanacaste",685,"10.9543","Trophis","NULL","Moraceae/Trophis/Trophis_sp1",1,340,0.00294117647058824
+"650","Guanacaste",685,"10.9543","Pseudolmedia","NULL","Moraceae/Pseudolmedia/Pseudolmedia_sp1",9,340,0.0264705882352941
+"659","Guanacaste",685,"10.9543","Brosimum","NULL","Moraceae/Brosimum/Brosimum_sp1",1,340,0.00294117647058824
+"660","Guanacaste",685,"10.9543","Brosimum","Brosimum alicastrum","Moraceae/Brosimum/Brosimum_alicastrum",2,340,0.00588235294117647
+"661","Guanacaste",685,"10.9543","Cassipourea","Cassipourea elliptica","Rhizophoraceae/Cassipourea/Cassipourea_elliptica",2,340,0.00588235294117647
+"663","Guanacaste",685,"10.9543","Ardisia","Ardisia compressa","Primulaceae/Ardisia/Ardisia_compressa",2,340,0.00588235294117647
+"665","Guanacaste",685,"10.9543","Myrciaria","Myrciaria floribunda","Myrtaceae/Myrciaria/Myrciaria_floribunda",2,340,0.00588235294117647
+"667","Guanacaste",685,"10.9543","Eugenia","NULL","Myrtaceae/Eugenia/Eugenia_sp1",2,340,0.00588235294117647
+"669","Guanacaste",685,"10.9543","Eugenia","Eugenia chiapensis","Myrtaceae/Eugenia/Eugenia_chiapensis",8,340,0.0235294117647059
+"677","Guanacaste",685,"10.9543","Calyptranthes","Calyptranthes chytraculia","Myrtaceae/Calyptranthes/Calyptranthes_chytraculia",6,340,0.0176470588235294
+"683","Guanacaste",685,"10.9543","Ouratea","Ouratea lucens","Ochnaceae/Ouratea/Ouratea_lucens",11,340,0.0323529411764706
+"694","Guanacaste",685,"10.9543","Passiflora","NULL","Passifloraceae/Passiflora/Passiflora_sp1",1,340,0.00294117647058824
+"695","Guanacaste",685,"10.9543","Piper","Piper arboreum","Piperaceae/Piper/Piper_arboreum",1,340,0.00294117647058824
+"697","Guanacaste",685,"10.9543","Rudgea","Rudgea cornifolia","Rubiaceae/Rudgea/Rudgea_cornifolia",15,340,0.0441176470588235
+"712","Guanacaste",685,"10.9543","Randia","Randia armata","Rubiaceae/Randia/Randia_armata",3,340,0.00882352941176471
+"715","Guanacaste",685,"10.9543","Randia","Randia genipoides","Rubiaceae/Randia/Randia_genipoides",6,340,0.0176470588235294
+"721","Guanacaste",685,"10.9543","Palicourea","Palicourea eurycarpa","Rubiaceae/Palicourea/Palicourea_eurycarpa",1,340,0.00294117647058824
+"722","Guanacaste",685,"10.9543","Psychotria","Psychotria quinqueradiata","Rubiaceae/Psychotria/Psychotria_quinqueradiata",1,340,0.00294117647058824
+"723","Guanacaste",685,"10.9543","Faramea","NULL","Rubiaceae/Faramea/Faramea_sp1",27,340,0.0794117647058823
+"750","Guanacaste",685,"10.9543","Amyris","Amyris pinnata","Rutaceae/Amyris/Amyris_pinnata",2,340,0.00588235294117647
+"752","Guanacaste",685,"10.9543","Dilodendron","Dilodendron costaricense","Sapindaceae/Dilodendron/Dilodendron_costaricense",2,340,0.00588235294117647
+"754","Guanacaste",685,"10.9543","SapindaceaeIndet.","NULL","Sapindaceae/SapindaceaeIndet/SapindaceaeIndet_sp1",7,340,0.0205882352941176
+"755","Guanacaste",685,"10.9543","SapindaceaeIndet.","NULL","Sapindaceae/SapindaceaeIndet/SapindaceaeIndet_sp2",2,340,0.00588235294117647
+"763","Guanacaste",685,"10.9543","Pouteria","NULL","Sapotaceae/Pouteria/Pouteria_sp2",8,340,0.0235294117647059
+"765","Guanacaste",685,"10.9543","Pouteria","NULL","Sapotaceae/Pouteria/Pouteria_sp3",30,340,0.0882352941176471
+"801","Guanacaste",685,"10.9543","Pouteria","Pouteria campechiana","Sapotaceae/Pouteria/Pouteria_campechiana",3,340,0.00882352941176471
+"804","Guanacaste",685,"10.9543","Manilkara","Manilkara chicle","Sapotaceae/Manilkara/Manilkara_chicle",8,340,0.0235294117647059
+"812","Guanacaste",685,"10.9543","Chrysophyllum","NULL","Sapotaceae/Chrysophyllum/Chrysophyllum_sp1",2,340,0.00588235294117647
+"814","Guanacaste",685,"10.9543","Simarouba","Simarouba amara","Simaroubaceae/Simarouba/Simarouba_amara",4,340,0.0117647058823529
+"818","Guanacaste",685,"10.9543","Ternstroemia","Ternstroemia tepezapote","Pentaphylacaceae/Ternstroemia/Ternstroemia_tepezapote",1,340,0.00294117647058824
+"819","Guanacaste",685,"10.9543","Mortoniodendron","NULL","Malvaceae/Mortoniodendron/Mortoniodendron_sp1",1,340,0.00294117647058824
+"820","Guanacaste",685,"10.9543","Erblichia","Erblichia odorata","Passifloraceae/Erblichia/Erblichia_odorata",3,340,0.00882352941176471
+"823","Guanacaste",685,"10.9543","Rinorea","Rinorea deflexiflora","Violaceae/Rinorea/Rinorea_deflexiflora",23,340,0.0676470588235294
+"846","Guanacaste",685,"10.9543","Cissus","NULL","Vitaceae/Cissus/Cissus_sp1",2,340,0.00588235294117647
+"848","Guanacaste",1225,"10.9285","Combretum","NULL","Combretaceae/Combretum/Combretum_sp1",2,408,0.00490196078431373
+"850","Guanacaste",1225,"10.9285","Desmopsis","Desmopsis microcarpa","Annonaceae/Desmopsis/Desmopsis_microcarpa",2,408,0.00490196078431373
+"852","Guanacaste",1225,"10.9285","AnnonaceaeIndet.","NULL","Annonaceae/AnnonaceaeIndet/AnnonaceaeIndet_sp1",1,408,0.00245098039215686
+"853","Guanacaste",1225,"10.9285","Stemmadenia","NULL","Apocynaceae/Stemmadenia/Stemmadenia_sp4",1,408,0.00245098039215686
+"854","Guanacaste",1225,"10.9285","FabaceaeIndet.","NULL","Fabaceae/FabaceaeIndet/FabaceaeIndet_sp1",2,408,0.00490196078431373
+"856","Guanacaste",1225,"10.9285","ApocynaceaeIndet.","NULL","Apocynaceae/ApocynaceaeIndet/ApocynaceaeIndet_sp1",1,408,0.00245098039215686
+"857","Guanacaste",1225,"10.9285","Schefflera","NULL","Araliaceae/Schefflera/Schefflera_sp1",1,408,0.00245098039215686
+"858","Guanacaste",1225,"10.9285","Securidaca","NULL","Polygalaceae/Securidaca/Securidaca_sp1",1,408,0.00245098039215686
+"859","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp2",7,408,0.017156862745098
+"862","Guanacaste",1225,"10.9285","Sloanea","NULL","Elaeocarpaceae/Sloanea/Sloanea_sp1",1,408,0.00245098039215686
+"863","Guanacaste",1225,"10.9285","Koanophyllon","Koanophyllon pittieri","Asteraceae/Koanophyllon/Koanophyllon_pittieri",5,408,0.0122549019607843
+"868","Guanacaste",1225,"10.9285","Cordia","Cordia croatii","Boraginaceae/Cordia/Cordia_croatii",1,408,0.00245098039215686
+"869","Guanacaste",1225,"10.9285","Viburnum","Viburnum costaricanum","Adoxaceae/Viburnum/Viburnum_costaricanum",1,408,0.00245098039215686
+"870","Guanacaste",1225,"10.9285","Maytenus","NULL","Celastraceae/Maytenus/Maytenus_sp1",2,408,0.00490196078431373
+"872","Guanacaste",1225,"10.9285","Gymnosporia","Gymnosporia haberiana","Celastraceae/Gymnosporia/Gymnosporia_haberiana",1,408,0.00245098039215686
+"873","Guanacaste",1225,"10.9285","Licania","Licania riverae","Chrysobalanaceae/Licania/Licania_riverae",2,408,0.00490196078431373
+"875","Guanacaste",1225,"10.9285","Symphonia","Symphonia globulifera","Clusiaceae/Symphonia/Symphonia_globulifera",6,408,0.0147058823529412
+"881","Guanacaste",1225,"10.9285","Clusia","NULL","Clusiaceae/Clusia/Clusia_sp2",1,408,0.00245098039215686
+"882","Guanacaste",1225,"10.9285","Rourea","Rourea schippii","Connaraceae/Rourea/Rourea_schippii",1,408,0.00245098039215686
+"883","Guanacaste",1225,"10.9285","Erythroxylum","Erythroxylum citrifolium","Erythroxylaceae/Erythroxylum/Erythroxylum_citrifolium",1,408,0.00245098039215686
+"884","Guanacaste",1225,"10.9285","Euphorbia","Euphorbia sinclairiana","Euphorbiaceae/Euphorbia/Euphorbia_sinclairiana",13,408,0.0318627450980392
+"897","Guanacaste",1225,"10.9285","Alchornea","Alchornea latifolia","Euphorbiaceae/Alchornea/Alchornea_latifolia",1,408,0.00245098039215686
+"898","Guanacaste",1225,"10.9285","Lonchocarpus","Lonchocarpus oliganthus","Fabaceae/Lonchocarpus/Lonchocarpus_oliganthus",8,408,0.0196078431372549
+"906","Guanacaste",1225,"10.9285","Inga","Inga longispica","Fabaceae/Inga/Inga_longispica",6,408,0.0147058823529412
+"912","Guanacaste",1225,"10.9285","Inga","Inga mortoniana","Fabaceae/Inga/Inga_mortoniana",4,408,0.00980392156862745
+"918","Guanacaste",1225,"10.9285","Dussia","Dussia macroprophyllata","Fabaceae/Dussia/Dussia_macroprophyllata",2,408,0.00490196078431373
+"919","Guanacaste",1225,"10.9285","Hasseltiopsis","Hasseltiopsis dioica","Salicaceae/Hasseltiopsis/Hasseltiopsis_dioica",2,408,0.00490196078431373
+"921","Guanacaste",1225,"10.9285","Hasseltia","Hasseltia guatemalensis","Salicaceae/Hasseltia/Hasseltia_guatemalensis",2,408,0.00490196078431373
+"923","Guanacaste",1225,"10.9285","Billia","Billia columbiana","Sapindaceae/Billia/Billia_columbiana",3,408,0.00735294117647059
+"926","Guanacaste",1225,"10.9285","Salacia","Salacia petenensis","Celastraceae/Salacia/Salacia_petenensis",4,408,0.00980392156862745
+"930","Guanacaste",1225,"10.9285","Persea","NULL","Lauraceae/Persea/Persea_sp1",2,408,0.00490196078431373
+"932","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp13",2,408,0.00490196078431373
+"933","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp1",1,408,0.00245098039215686
+"934","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp12",1,408,0.00245098039215686
+"935","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp11",1,408,0.00245098039215686
+"936","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp8",26,408,0.0637254901960784
+"944","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp3",1,408,0.00245098039215686
+"961","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp10",1,408,0.00245098039215686
+"963","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp9",1,408,0.00245098039215686
+"964","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp7",1,408,0.00245098039215686
+"969","Guanacaste",1225,"10.9285","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp6",1,408,0.00245098039215686
+"970","Guanacaste",1225,"10.9285","Malpighia","Malpighia albiflora","Malpighiaceae/Malpighia/Malpighia_albiflora",1,408,0.00245098039215686
+"971","Guanacaste",1225,"10.9285","Bunchosia","NULL","Malpighiaceae/Bunchosia/Bunchosia_sp1",2,408,0.00490196078431373
+"973","Guanacaste",1225,"10.9285","Hampea","Hampea appendiculata","Malvaceae/Hampea/Hampea_appendiculata",6,408,0.0147058823529412
+"979","Guanacaste",1225,"10.9285","Mouriri","Mouriri gleasoniana","Melastomataceae/Mouriri/Mouriri_gleasoniana",2,408,0.00490196078431373
+"981","Guanacaste",1225,"10.9285","Miconia","Miconia brenesii","Melastomataceae/Miconia/Miconia_brenesii",6,408,0.0147058823529412
+"987","Guanacaste",1225,"10.9285","Miconia","Miconia donaeana","Melastomataceae/Miconia/Miconia_donaeana",2,408,0.00490196078431373
+"989","Guanacaste",1225,"10.9285","Guarea","Guarea rhopalocarpa","Meliaceae/Guarea/Guarea_rhopalocarpa",7,408,0.017156862745098
+"996","Guanacaste",1225,"10.9285","Trophis","Trophis mexicana","Moraceae/Trophis/Trophis_mexicana",7,408,0.017156862745098
+"1003","Guanacaste",1225,"10.9285","Sorocea","Sorocea trophoides","Moraceae/Sorocea/Sorocea_trophoides",2,408,0.00490196078431373
+"1005","Guanacaste",1225,"10.9285","Myrcia","Myrcia splendens","Myrtaceae/Myrcia/Myrcia_splendens",5,408,0.0122549019607843
+"1009","Guanacaste",1225,"10.9285","MoraceaeIndet.","NULL","Moraceae/MoraceaeIndet/MoraceaeIndet_sp1",2,408,0.00490196078431373
+"1011","Guanacaste",1225,"10.9285","MoraceaeIndet.","NULL","Moraceae/MoraceaeIndet/MoraceaeIndet_sp2",9,408,0.0220588235294118
+"1021","Guanacaste",1225,"10.9285","Eugenia","Eugenia aeruginea","Myrtaceae/Eugenia/Eugenia_aeruginea",1,408,0.00245098039215686
+"1022","Guanacaste",1225,"10.9285","Eugenia","Eugenia basilaris","Myrtaceae/Eugenia/Eugenia_basilaris",1,408,0.00245098039215686
+"1023","Guanacaste",1225,"10.9285","Calyptranthes","NULL","Myrtaceae/Calyptranthes/Calyptranthes_sp1",11,408,0.0269607843137255
+"1034","Guanacaste",1225,"10.9285","MyrtaceaeIndet.","NULL","Myrtaceae/MyrtaceaeIndet/MyrtaceaeIndet_sp1",1,408,0.00245098039215686
+"1035","Guanacaste",1225,"10.9285","Piper","Piper aequale","Piperaceae/Piper/Piper_aequale",1,408,0.00245098039215686
+"1036","Guanacaste",1225,"10.9285","Piper","Piper tenuiamentum","Piperaceae/Piper/Piper_tenuiamentum",2,408,0.00490196078431373
+"1038","Guanacaste",1225,"10.9285","Coccoloba","Coccoloba liportizii","Polygonaceae/Coccoloba/Coccoloba_liportizii",2,408,0.00490196078431373
+"1040","Guanacaste",1225,"10.9285","Coccoloba","Coccoloba porphyrostachys","Polygonaceae/Coccoloba/Coccoloba_porphyrostachys",1,408,0.00245098039215686
+"1041","Guanacaste",1225,"10.9285","Roupala","Roupala montana","Proteaceae/Roupala/Roupala_montana",4,408,0.00980392156862745
+"1045","Guanacaste",1225,"10.9285","Panopsis","Panopsis suaveolens","Proteaceae/Panopsis/Panopsis_suaveolens",1,408,0.00245098039215686
+"1046","Guanacaste",1225,"10.9285","Cassipourea","Cassipourea elliptica","Rhizophoraceae/Cassipourea/Cassipourea_elliptica",11,408,0.0269607843137255
+"1057","Guanacaste",1225,"10.9285","Rudgea","Rudgea laevis","Rubiaceae/Rudgea/Rudgea_laevis",3,408,0.00735294117647059
+"1058","Guanacaste",1225,"10.9285","Sabicea","NULL","Rubiaceae/Sabicea/Sabicea_sp1",1,408,0.00245098039215686
+"1061","Guanacaste",1225,"10.9285","Arachnothryx","Arachnothryx buddleioides","Rubiaceae/Arachnothryx/Arachnothryx_buddleioides",1,408,0.00245098039215686
+"1062","Guanacaste",1225,"10.9285","Randia","Randia armata","Rubiaceae/Randia/Randia_armata",5,408,0.0122549019607843
+"1067","Guanacaste",1225,"10.9285","Randia","Randia calycosa","Rubiaceae/Randia/Randia_calycosa",5,408,0.0122549019607843
+"1072","Guanacaste",1225,"10.9285","Randia","Randia aculeata","Rubiaceae/Randia/Randia_aculeata",5,408,0.0122549019607843
+"1077","Guanacaste",1225,"10.9285","Psychotria","NULL","Rubiaceae/Psychotria/Psychotria_sp1",1,408,0.00245098039215686
+"1078","Guanacaste",1225,"10.9285","Psychotria","NULL","Rubiaceae/Psychotria/Psychotria_sp4",1,408,0.00245098039215686
+"1079","Guanacaste",1225,"10.9285","Posoqueria","Posoqueria coriacea","Rubiaceae/Posoqueria/Posoqueria_coriacea",4,408,0.00980392156862745
+"1083","Guanacaste",1225,"10.9285","Faramea","NULL","Rubiaceae/Faramea/Faramea_sp3",5,408,0.0122549019607843
+"1088","Guanacaste",1225,"10.9285","Faramea","NULL","Rubiaceae/Faramea/Faramea_sp2",7,408,0.017156862745098
+"1095","Guanacaste",1225,"10.9285","Coussarea","Coussarea caroliana","Rubiaceae/Coussarea/Coussarea_caroliana",19,408,0.0465686274509804
+"1114","Guanacaste",1225,"10.9285","RubiaceaeIndet.","NULL","Rubiaceae/RubiaceaeIndet/RubiaceaeIndet_sp1",9,408,0.0220588235294118
+"1119","Guanacaste",1225,"10.9285","RubiaceaeIndet.","NULL","Rubiaceae/RubiaceaeIndet/RubiaceaeIndet_sp2",44,408,0.107843137254902
+"1167","Guanacaste",1225,"10.9285","Zanthoxylum","Zanthoxylum melanostictum","Rutaceae/Zanthoxylum/Zanthoxylum_melanostictum",2,408,0.00490196078431373
+"1169","Guanacaste",1225,"10.9285","Lubaria","Lubaria aroensis","Rutaceae/Lubaria/Lubaria_aroensis",13,408,0.0318627450980392
+"1182","Guanacaste",1225,"10.9285","Meliosma","Meliosma glabrata","Sabiaceae/Meliosma/Meliosma_glabrata",1,408,0.00245098039215686
+"1183","Guanacaste",1225,"10.9285","Meliosma","Meliosma idiopoda","Sabiaceae/Meliosma/Meliosma_idiopoda",5,408,0.0122549019607843
+"1188","Guanacaste",1225,"10.9285","Pouteria","NULL","Sapotaceae/Pouteria/Pouteria_sp1",17,408,0.0416666666666667
+"1194","Guanacaste",1225,"10.9285","Pouteria","NULL","Sapotaceae/Pouteria/Pouteria_sp5",5,408,0.0122549019607843
+"1210","Guanacaste",1225,"10.9285","Pouteria","NULL","Sapotaceae/Pouteria/Pouteria_sp3",3,408,0.00735294117647059
+"1213","Guanacaste",1225,"10.9285","Chrysophyllum","NULL","Sapotaceae/Chrysophyllum/Chrysophyllum_sp1",6,408,0.0147058823529412
+"1219","Guanacaste",1225,"10.9285","SapotaceaeIndet.","NULL","Sapotaceae/SapotaceaeIndet/SapotaceaeIndet_sp1",6,408,0.0147058823529412
+"1225","Guanacaste",1225,"10.9285","SapotaceaeIndet.","NULL","Sapotaceae/SapotaceaeIndet/SapotaceaeIndet_sp2",1,408,0.00245098039215686
+"1226","Guanacaste",1225,"10.9285","Cestrum","NULL","Solanaceae/Cestrum/Cestrum_sp1",7,408,0.017156862745098
+"1233","Guanacaste",1225,"10.9285","SolanaceaeIndet.","NULL","Solanaceae/SolanaceaeIndet/SolanaceaeIndet_sp1",4,408,0.00980392156862745
+"1237","Guanacaste",1225,"10.9285","SolanaceaeIndet.","NULL","Solanaceae/SolanaceaeIndet/SolanaceaeIndet_sp2",3,408,0.00735294117647059
+"1240","Guanacaste",1225,"10.9285","Symplocos","Symplocos austin-smithii","Symplocaceae/Symplocos/Symplocos_austin-smithii",4,408,0.00980392156862745
+"1244","Guanacaste",1225,"10.9285","Mortoniodendron","NULL","Malvaceae/Mortoniodendron/Mortoniodendron_sp1",1,408,0.00245098039215686
+"1245","Guanacaste",1225,"10.9285","Urera","Urera simplex","Urticaceae/Urera/Urera_simplex",1,408,0.00245098039215686
+"1246","Guanacaste",1225,"10.9285","Hybanthus","Hybanthus guanacastensis","Violaceae/Hybanthus/Hybanthus_guanacastensis",5,408,0.0122549019607843
+"1251","Guanacaste",1225,"10.9285","Xylopia","NULL","Annonaceae/Xylopia/Xylopia_sp1",4,408,0.00980392156862745
+"1256","Guanacaste",1500,"10.9326","Sphaeradenia","NULL","Cyclanthaceae/Sphaeradenia/Sphaeradenia_sp1",2,118,0.0169491525423729
+"1258","Guanacaste",1500,"10.9326","Philodendron","NULL","Araceae/Philodendron/Philodendron_sp1",2,118,0.0169491525423729
+"1260","Guanacaste",1500,"10.9326","Schefflera","Schefflera rodriguesiana","Araliaceae/Schefflera/Schefflera_rodriguesiana",1,118,0.00847457627118644
+"1261","Guanacaste",1500,"10.9326","Geonoma","Geonoma undata","Arecaceae/Geonoma/Geonoma_undata",6,118,0.0508474576271186
+"1267","Guanacaste",1500,"10.9326","Clusia","NULL","Clusiaceae/Clusia/Clusia_sp2",3,118,0.0254237288135593
+"1270","Guanacaste",1500,"10.9326","Clusia","NULL","Clusiaceae/Clusia/Clusia_sp1",1,118,0.00847457627118644
+"1271","Guanacaste",1500,"10.9326","Chrysochlamys","Chrysochlamys allenii","Clusiaceae/Chrysochlamys/Chrysochlamys_allenii",7,118,0.0593220338983051
+"1278","Guanacaste",1500,"10.9326","Weinmannia","Weinmannia pinnata","Cunoniaceae/Weinmannia/Weinmannia_pinnata",1,118,0.00847457627118644
+"1279","Guanacaste",1500,"10.9326","Vaccinium","NULL","Ericaceae/Vaccinium/Vaccinium_sp1",1,118,0.00847457627118644
+"1280","Guanacaste",1500,"10.9326","Disterigma","Disterigma humboldtiana","Ericaceae/Disterigma/Disterigma_humboldtiana",1,118,0.00847457627118644
+"1281","Guanacaste",1500,"10.9326","Cavendishia","NULL","Ericaceae/Cavendishia/Cavendishia_sp1",1,118,0.00847457627118644
+"1282","Guanacaste",1500,"10.9326","Salacia","Salacia petenensis","Celastraceae/Salacia/Salacia_petenensis",2,118,0.0169491525423729
+"1284","Guanacaste",1500,"10.9326","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp4",1,118,0.00847457627118644
+"1285","Guanacaste",1500,"10.9326","LauraceaeIndet.","NULL","Lauraceae/LauraceaeIndet/LauraceaeIndet_sp5",1,118,0.00847457627118644
+"1286","Guanacaste",1500,"10.9326","Bunchosia","NULL","Malpighiaceae/Bunchosia/Bunchosia_sp1",1,118,0.00847457627118644
+"1287","Guanacaste",1500,"10.9326","Guatteria","NULL","Annonaceae/Guatteria/Guatteria_sp1",1,118,0.00847457627118644
+"1288","Guanacaste",1500,"10.9326","Miconia","Miconia tonduzii","Melastomataceae/Miconia/Miconia_tonduzii",8,118,0.0677966101694915
+"1296","Guanacaste",1500,"10.9326","Blakea","Blakea scarlatina","Melastomataceae/Blakea/Blakea_scarlatina",1,118,0.00847457627118644
+"1297","Guanacaste",1500,"10.9326","Sorocea","Sorocea trophoides","Moraceae/Sorocea/Sorocea_trophoides",2,118,0.0169491525423729
+"1299","Guanacaste",1500,"10.9326","Ardisia","Ardisia glandulosomarginata","Primulaceae/Ardisia/Ardisia_glandulosomarginata",10,118,0.0847457627118644
+"1309","Guanacaste",1500,"10.9326","Ardisia","Ardisia palmana","Primulaceae/Ardisia/Ardisia_palmana",6,118,0.0508474576271186
+"1315","Guanacaste",1500,"10.9326","Myrcianthes","Myrcianthes rhopaloides","Myrtaceae/Myrcianthes/Myrcianthes_rhopaloides",1,118,0.00847457627118644
+"1316","Guanacaste",1500,"10.9326","Eugenia","Eugenia basilaris","Myrtaceae/Eugenia/Eugenia_basilaris",2,118,0.0169491525423729
+"1318","Guanacaste",1500,"10.9326","Calyptranthes","Calyptranthes monteverdensis","Myrtaceae/Calyptranthes/Calyptranthes_monteverdensis",7,118,0.0593220338983051
+"1325","Guanacaste",1500,"10.9326","Cyathea","Cyathea caracasana","Cyatheaceae/Cyathea/Cyathea_caracasana",7,118,0.0593220338983051
+"1332","Guanacaste",1500,"10.9326","Cassipourea","Cassipourea elliptica","Rhizophoraceae/Cassipourea/Cassipourea_elliptica",11,118,0.0932203389830508
+"1343","Guanacaste",1500,"10.9326","Rudgea","Rudgea laevis","Rubiaceae/Rudgea/Rudgea_laevis",1,118,0.00847457627118644
+"1344","Guanacaste",1500,"10.9326","Psychotria","NULL","Rubiaceae/Psychotria/Psychotria_sp3",1,118,0.00847457627118644
+"1345","Guanacaste",1500,"10.9326","Psychotria","NULL","Rubiaceae/Psychotria/Psychotria_sp2",8,118,0.0677966101694915
+"1353","Guanacaste",1500,"10.9326","Guettarda","Guettarda crispiflora","Rubiaceae/Guettarda/Guettarda_crispiflora",1,118,0.00847457627118644
+"1354","Guanacaste",1500,"10.9326","Faramea","NULL","Rubiaceae/Faramea/Faramea_sp2",16,118,0.135593220338983
+"1370","Guanacaste",1500,"10.9326","Zanthoxylum","Zanthoxylum melanostictum","Rutaceae/Zanthoxylum/Zanthoxylum_melanostictum",1,118,0.00847457627118644
+"1371","Guanacaste",1500,"10.9326","Staphylea","Staphylea occidentalis","Staphyleaceae/Staphylea/Staphylea_occidentalis",1,118,0.00847457627118644
+"1372","Guanacaste",1500,"10.9326","Symplocos","Symplocos tribracteolata","Symplocaceae/Symplocos/Symplocos_tribracteolata",1,118,0.00847457627118644
+"1373","Guanacaste",1500,"10.9326","Xylopia","NULL","Annonaceae/Xylopia/Xylopia_sp1",1,118,0.00847457627118644
+"1374","Arizona",1862,"32.3743","Pinus","Pinus arizonica","Pinaceae/Pinus/Pinus_arizonica",87,209,0.416267942583732
+"1375","Arizona",1862,"32.3743","Quercus","Quercus hypoleucoides","Fagaceae/Quercus/Quercus_hypoleucoides",84,209,0.401913875598086
+"1387","Arizona",1862,"32.3743","Rhamnus","Rhamnus betulifolia","Rhamnaceae/Rhamnus/Rhamnus_betulifolia",3,209,0.0143540669856459
+"1390","Arizona",1862,"32.3743","Arbutus","Arbutus arizonica","Ericaceae/Arbutus/Arbutus_arizonica",3,209,0.0143540669856459
+"1392","Arizona",1862,"32.3743","Nolina","Nolina microcarpa","Asparagaceae/Nolina/Nolina_microcarpa",3,209,0.0143540669856459
+"1401","Arizona",1862,"32.3743","Yucca","NULL","Liliaceae/Yucca/Liliaceae_Yucca_sp1",13,209,0.062200956937799
+"1405","Arizona",1862,"32.3743","Quercus","NULL","Fagaceae/Quercus/Quercus_sp1",2,209,0.00956937799043062
+"1409","Arizona",1862,"32.3743","Juniperus","Juniperus deppeana","Cupressaceae/Juniperus/Juniperus_deppeana",4,209,0.0191387559808612
+"1434","Arizona",1862,"32.3743","Prunus","Prunus serotina","Rosaceae/Prunus/Prunus_serotina",3,209,0.0143540669856459
+"1462","Arizona",1862,"32.3743","Pinus","Pinus leiophylla","Pinaceae/Pinus/Pinus_leiophylla",2,209,0.00956937799043062
+"1528","Arizona",1862,"32.3743","Pinus","Pinus cembroides","Pinaceae/Pinus/Pinus_cembroides",1,209,0.00478468899521531
+"1554","Arizona",1862,"32.3743","Pinus","Pinus flexilis","Pinaceae/Pinus/Pinus_flexilis",1,209,0.00478468899521531
+"1562","Arizona",1862,"32.3743","Garrya","Garrya wrightii","Garryaceae/Garrya/Garrya_wrightii",3,209,0.0143540669856459
+"1583","Arizona",2130,"32.3896","Pinus","Pinus arizonica","Pinaceae/Pinus/Pinus_arizonica",76,179,0.424581005586592
+"1595","Arizona",2130,"32.3896","Pseudotsuga","Pseudotsuga menziesii","Pinaceae/Pseudotsuga/Pseudotsuga_menziesii",89,179,0.497206703910615
+"1634","Arizona",2130,"32.3896","Pinus","Pinus flexilis","Pinaceae/Pinus/Pinus_flexilis",11,179,0.0614525139664804
+"1686","Arizona",2130,"32.3896","Acer","Acer negundo","Sapindaceae/Acer/Acer_negundo",1,179,0.00558659217877095
+"1739","Arizona",2130,"32.3896","Quercus","Quercus hypoleucoides","Fagaceae/Quercus/Quercus_hypoleucoides",2,179,0.0111731843575419
+"1762","Arizona",2529,"32.4432","Pseudotsuga","Pseudotsuga menziesii","Pinaceae/Pseudotsuga/Pseudotsuga_menziesii",20,49,0.408163265306122
+"1782","Arizona",2529,"32.4432","Jamesia","Jamesia americana","Hydrangeaceae/Jamesia/Jamesia_americana",14,49,0.285714285714286
+"1796","Arizona",2529,"32.4432","Robinia","Robinia neomexicana","Fabaceae/Robinia/Robinia_neomexicana",6,49,0.122448979591837
+"1802","Arizona",2529,"32.4432","Abies","Abies concolor","Pinaceae/Abies/Abies_concolor",7,49,0.142857142857143
+"1809","Arizona",2529,"32.4432","Pinus","Pinus strobiformis","Pinaceae/Pinus/Pinus_strobiformis",2,49,0.0408163265306122
+"1811","Arizona",2542,"32.4468","Populus","Populus tremuloides","Salicaceae/Populus/Populus_tremuloides",2,56,0.0357142857142857
+"1813","Arizona",2542,"32.4468","Pseudotsuga","Pseudotsuga menziesii","Pinaceae/Pseudotsuga/Pseudotsuga_menziesii",14,56,0.25
+"1827","Arizona",2542,"32.4468","Acer","Acer grandidentatum","Sapindaceae/Acer/Acer_grandidentatum",7,56,0.125
+"1834","Arizona",2542,"32.4468","Jamesia","Jamesia americana","Hydrangeaceae/Jamesia/Jamesia_americana",11,56,0.196428571428571
+"1845","Arizona",2542,"32.4468","Abies","Abies concolor","Pinaceae/Abies/Abies_concolor",20,56,0.357142857142857
+"1865","Arizona",2542,"32.4468","Pinus","Pinus strobiformis","Pinaceae/Pinus/Pinus_strobiformis",2,56,0.0357142857142857
+"1867","Colorado",2506,"38.6991","Pseudotsuga","Pseudotsuga menziesii","Pinaceae/Pseudotsuga/Pseudotsuga_menziesii",45,107,0.420560747663551
+"1872","Colorado",2506,"38.6991","Picea","Picea engelmannii","Pinaceae/Picea/Picea_engelmannii",20,107,0.186915887850467
+"1873","Colorado",2506,"38.6991","Juniperus","Juniperus communis","Cupressaceae/Juniperus/Juniperus_communis",19,107,0.177570093457944
+"1874","Colorado",2506,"38.6991","Amelanchier","Amelanchier alnifolia","Rosaceae/Amelanchier/Amelanchier_alnifolia",4,107,0.0373831775700935
+"1875","Colorado",2506,"38.6991","Juniperus","Juniperus scopulorum","Cupressaceae/Juniperus/Juniperus_scopulorum",1,107,0.00934579439252336
+"1927","Colorado",2506,"38.6991","Pinus","Pinus contorta","Pinaceae/Pinus/Pinus_contorta",1,107,0.00934579439252336
+"1932","Colorado",2506,"38.6991","Populus","Populus tremuloides","Salicaceae/Populus/Populus_tremuloides",17,107,0.158878504672897
+"1974","Colorado",2845,"38.9403","Populus","Populus tremuloides","Salicaceae/Populus/Populus_tremuloides",112,145,0.772413793103448
+"1980","Colorado",2845,"38.9403","Heracleum","Heracleum sphondylium","Apiaceae/Heracleum/Heracleum_sphondylium",11,145,0.0758620689655172
+"1995","Colorado",2845,"38.9403","Picea","Picea engelmannii","Pinaceae/Picea/Picea_engelmannii",5,145,0.0344827586206897
+"2024","Colorado",2845,"38.9403","Veratrum","Veratrum californicum","Melanthiaceae/Veratrum/Veratrum_californicum",6,145,0.0413793103448276
+"2029","Colorado",2845,"38.9403","Lonicera","Lonicera involucrata","Caprifoliaceae/Lonicera/Lonicera_involucrata",3,145,0.0206896551724138
+"2035","Colorado",2845,"38.9403","Abies","Abies lasiocarpa","Pinaceae/Abies/Abies_lasiocarpa",6,145,0.0413793103448276
+"2054","Colorado",2845,"38.9403","Sambucus","Sambucus racemosa","Adoxaceae/Sambucus/Sambucus_racemosa",1,145,0.00689655172413793
+"2096","Colorado",2845,"38.9403","Symphoricarpos","Symphoricarpos rotundifolius","Caprifoliaceae/Symphoricarpos/Symphoricarpos_rotundifolius",1,145,0.00689655172413793
+"2119","Colorado",3017,"38.9314","Abies","Abies lasiocarpa","Pinaceae/Abies/Abies_lasiocarpa",107,136,0.786764705882353
+"2121","Colorado",3017,"38.9314","Picea","Picea engelmannii","Pinaceae/Picea/Picea_engelmannii",29,136,0.213235294117647
+"2255","Colorado",3261,"38.9314","Abies","Abies lasiocarpa","Pinaceae/Abies/Abies_lasiocarpa",102,173,0.589595375722543
+"2256","Colorado",3261,"38.9314","Picea","Picea engelmannii","Pinaceae/Picea/Picea_engelmannii",71,173,0.410404624277457
+"2428","Puntarenas",75,"9.37822","Calophyllum","Calophyllum longifolium","Calophyllaceae/Calophyllum/Calophyllum_longifolium",7,265,0.0264150943396226
+"2429","Puntarenas",75,"9.37822","Posoqueria","Posoqueria latifolia","Rubiaceae/Posoqueria/Posoqueria_latifolia",40,265,0.150943396226415
+"2430","Puntarenas",75,"9.37822","Ruagea","Ruagea glabra","Meliaceae/Ruagea/Ruagea_glabra",8,265,0.030188679245283
+"2432","Puntarenas",75,"9.37822","Nectandra","Nectandra umbrosa","Lauraceae/Nectandra/Nectandra_umbrosa",9,265,0.0339622641509434
+"2433","Puntarenas",75,"9.37822","Licania","Licania operculipetala","Chrysobalanaceae/Licania/Licania_operculipetala",6,265,0.0226415094339623
+"2434","Puntarenas",75,"9.37822","Aspidosperma","Aspidosperma desmanthum","Apocynaceae/Aspidosperma/Aspidosperma_desmanthum",6,265,0.0226415094339623
+"2435","Puntarenas",75,"9.37822","Mouriri","Mouriri gleasoniana","Melastomataceae/Mouriri/Mouriri_gleasoniana",2,265,0.00754716981132075
+"2436","Puntarenas",75,"9.37822","Connarus","Connarus panamensis","Connaraceae/Connarus/Connarus_panamensis",14,265,0.0528301886792453
+"2439","Puntarenas",75,"9.37822","Erythroxylum","Erythroxylum macrophyllum","Erythroxylaceae/Erythroxylum/Erythroxylum_macrophyllum",5,265,0.0188679245283019
+"2448","Puntarenas",75,"9.37822","Piper","NULL","Piperaceae/Piper/Piper_sp1",2,265,0.00754716981132075
+"2450","Puntarenas",75,"9.37822","Clitoria","Clitoria javitensis","Fabaceae/Clitoria/Clitoria_javitensis",5,265,0.0188679245283019
+"2451","Puntarenas",75,"9.37822","Simarouba","Simarouba amara","Simaroubaceae/Simarouba/Simarouba_amara",4,265,0.0150943396226415
+"2453","Puntarenas",75,"9.37822","Cnestidium","Cnestidium rufescens","Connaraceae/Cnestidium/Cnestidium_rufescens",2,265,0.00754716981132075
+"2454","Puntarenas",75,"9.37822","Passiflora","NULL","Passifloraceae/Passiflora/Passiflora_sp2",1,265,0.00377358490566038
+"2455","Puntarenas",75,"9.37822","Odontadenia","Odontadenia puncticulosa","Apocynaceae/Odontadenia/Odontadenia_puncticulosa",6,265,0.0226415094339623
+"2456","Puntarenas",75,"9.37822","Arrabidaea","NULL","Bignoniaceae/Arrabidaea/Arrabidaea_sp2",4,265,0.0150943396226415
+"2458","Puntarenas",75,"9.37822","Davilla","Davilla nitida","Dilleniaceae/Davilla/Davilla_nitida",8,265,0.030188679245283
+"2459","Puntarenas",75,"9.37822","Callicarpa","Callicarpa acuminata","Lamiaceae/Callicarpa/Callicarpa_acuminata",4,265,0.0150943396226415
+"2460","Puntarenas",75,"9.37822","Attalea","Attalea rostrata","Arecaceae/Attalea/Attalea_rostrata",14,265,0.0528301886792453
+"2461","Puntarenas",75,"9.37822","Lacistema","Lacistema aggregatum","Lacistemataceae/Lacistema/Lacistema_aggregatum",6,265,0.0226415094339623
+"2463","Puntarenas",75,"9.37822","Callichlamys","Callichlamys latifolia","Bignoniaceae/Callichlamys/Callichlamys_latifolia",8,265,0.030188679245283
+"2474","Puntarenas",75,"9.37822","Doliocarpus","Doliocarpus major","Dilleniaceae/Doliocarpus/Doliocarpus_major",5,265,0.0188679245283019
+"2475","Puntarenas",75,"9.37822","Oxandra","Oxandra venezuelana","Annonaceae/Oxandra/Oxandra_venezuelana",6,265,0.0226415094339623
+"2476","Puntarenas",75,"9.37822","Eugenia","Eugenia acapulcensis","Myrtaceae/Eugenia/Eugenia_acapulcensis",3,265,0.0113207547169811
+"2483","Puntarenas",75,"9.37822","Chimarrhis","Chimarrhis latifolia","Rubiaceae/Chimarrhis/Chimarrhis_latifolia",15,265,0.0566037735849057
+"2484","Puntarenas",75,"9.37822","Swartzia","Swartzia simplex","Fabaceae/Swartzia/Swartzia_simplex",4,265,0.0150943396226415
+"2489","Puntarenas",75,"9.37822","Guazuma","Guazuma ulmifolia","Malvaceae/Guazuma/Guazuma_ulmifolia",1,265,0.00377358490566038
+"2491","Puntarenas",75,"9.37822","Tabebuia","Tabebuia rosea","Bignoniaceae/Tabebuia/Tabebuia_rosea",1,265,0.00377358490566038
+"2493","Puntarenas",75,"9.37822","Vitis","Vitis tiliifolia","Vitaceae/Vitis/Vitis_tiliifolia",1,265,0.00377358490566038
+"2494","Puntarenas",75,"9.37822","Protium","NULL","Burseraceae/Protium/Protium_sp2",1,265,0.00377358490566038
+"2497","Puntarenas",75,"9.37822","Chomelia","Chomelia microloba","Rubiaceae/Chomelia/Chomelia_microloba",1,265,0.00377358490566038
+"2507","Puntarenas",75,"9.37822","Cuervea","Cuervea kappleriana","Celastraceae/Cuervea/Cuervea_kappleriana",1,265,0.00377358490566038
+"2512","Puntarenas",75,"9.37822","Eschweilera","Eschweilera hondurensis","Lecythidaceae/Eschweilera/Eschweilera_hondurensis",1,265,0.00377358490566038
+"2513","Puntarenas",75,"9.37822","Bactris","NULL","Arecaceae/Bactris/Bactris_sp2",1,265,0.00377358490566038
+"2517","Puntarenas",75,"9.37822","Arrabidaea","NULL","Bignoniaceae/Arrabidaea/Arrabidaea_sp3",2,265,0.00754716981132075
+"2518","Puntarenas",75,"9.37822","Inga","Inga punctata","Fabaceae/Inga/Inga_punctata",3,265,0.0113207547169811
+"2523","Puntarenas",75,"9.37822","Pouteria","Pouteria chiricana","Sapotaceae/Pouteria/Pouteria_chiricana",8,265,0.030188679245283
+"2524","Puntarenas",75,"9.37822","Machaerium","Machaerium kegelii","Fabaceae/Machaerium/Machaerium_kegelii",1,265,0.00377358490566038
+"2525","Puntarenas",75,"9.37822","Ocotea","Ocotea veraguensis","Lauraceae/Ocotea/Ocotea_veraguensis",1,265,0.00377358490566038
+"2526","Puntarenas",75,"9.37822","Talisia","Talisia nervosa","Sapindaceae/Talisia/Talisia_nervosa",4,265,0.0150943396226415
+"2535","Puntarenas",75,"9.37822","Strychnos","Strychnos peckii","Loganiaceae/Strychnos/Strychnos_peckii",3,265,0.0113207547169811
+"2537","Puntarenas",75,"9.37822","Genipa","Genipa americana","Rubiaceae/Genipa/Genipa_americana",5,265,0.0188679245283019
+"2538","Puntarenas",75,"9.37822","Inga","Inga multijuga","Fabaceae/Inga/Inga_multijuga",1,265,0.00377358490566038
+"2560","Puntarenas",75,"9.37822","BignoniaceaeIndet.","NULL","Bignoniaceae/BignoniaceaeIndet/BignoniaceaeIndet_sp7",1,265,0.00377358490566038
+"2563","Puntarenas",75,"9.37822","Ficus","Ficus maxima","Moraceae/Ficus/Ficus_maxima",1,265,0.00377358490566038
+"2565","Puntarenas",75,"9.37822","Machaerium","Machaerium salvadorense","Fabaceae/Machaerium/Machaerium_salvadorense",1,265,0.00377358490566038
+"2568","Puntarenas",75,"9.37822","Trophis","Trophis involucrata","Moraceae/Trophis/Trophis_involucrata",2,265,0.00754716981132075
+"2570","Puntarenas",75,"9.37822","Faramea","Faramea occidentalis","Rubiaceae/Faramea/Faramea_occidentalis",1,265,0.00377358490566038
+"2571","Puntarenas",75,"9.37822","Astrocaryum","Astrocaryum standleyanum","Arecaceae/Astrocaryum/Astrocaryum_standleyanum",1,265,0.00377358490566038
+"2573","Puntarenas",75,"9.37822","Cordia","Cordia collococca","Boraginaceae/Cordia/Cordia_collococca",3,265,0.0113207547169811
+"2577","Puntarenas",75,"9.37822","Omphalea","Omphalea diandra","Euphorbiaceae/Omphalea/Omphalea_diandra",1,265,0.00377358490566038
+"2580","Puntarenas",75,"9.37822","Cordia","NULL","Boraginaceae/Cordia/Cordia_sp2",1,265,0.00377358490566038
+"2593","Puntarenas",75,"9.37822","Apeiba","Apeiba tibourbou","Malvaceae/Apeiba/Apeiba_tibourbou",1,265,0.00377358490566038
+"2597","Puntarenas",75,"9.37822","Discophora","Discophora guianensis","Stemonuraceae/Discophora/Discophora_guianensis",1,265,0.00377358490566038
+"2604","Puntarenas",75,"9.37822","Arrabidaea","NULL","Bignoniaceae/Arrabidaea/Arrabidaea_sp1",2,265,0.00754716981132075
+"2605","Puntarenas",75,"9.37822","Maytenus","Maytenus guyanensis","Celastraceae/Maytenus/Maytenus_guyanensis",5,265,0.0188679245283019
+"2609","Puntarenas",75,"9.37822","Lonchocarpus","Lonchocarpus heptaphyllus","Fabaceae/Lonchocarpus/Lonchocarpus_heptaphyllus",1,265,0.00377358490566038
+"2621","Puntarenas",75,"9.37822","Trema","Trema micrantha","Cannabaceae/Trema/Trema_micrantha",1,265,0.00377358490566038
+"2624","Puntarenas",75,"9.37822","Myrciaria","Myrciaria floribunda","Myrtaceae/Myrciaria/Myrciaria_floribunda",1,265,0.00377358490566038
+"2631","Puntarenas",75,"9.37822","Heisteria","Heisteria concinna","Olacaceae/Heisteria/Heisteria_concinna",3,265,0.0113207547169811
+"2648","Puntarenas",75,"9.37822","Rourea","Rourea glabra","Connaraceae/Rourea/Rourea_glabra",1,265,0.00377358490566038
+"2649","Puntarenas",75,"9.37822","Cydista","NULL","Bignoniaceae/Cydista/Cydista_sp1",1,265,0.00377358490566038
+"2651","Puntarenas",75,"9.37822","Tetrathylacium","Tetrathylacium johansenii","Salicaceae/Tetrathylacium/Tetrathylacium_johansenii",1,265,0.00377358490566038
+"2663","Puntarenas",75,"9.37822","Arrabidaea","Arrabidaea candicans","Bignoniaceae/Arrabidaea/Arrabidaea_candicans",1,265,0.00377358490566038
+"2666","Puntarenas",75,"9.37822","Trichilia","NULL","Meliaceae/Trichilia/Trichilia_sp1",1,265,0.00377358490566038
+"2676","Puntarenas",75,"9.37822","Ocotea","Ocotea leucoxylon","Lauraceae/Ocotea/Ocotea_leucoxylon",1,265,0.00377358490566038
+"2678","Puntarenas",75,"9.37822","Arrabidaea","NULL","Bignoniaceae/Arrabidaea/Arrabidaea_sp4",1,265,0.00377358490566038
+"2688","Puntarenas",75,"9.37822","Mimosa","Mimosa caesalpiniifolia","Fabaceae/Mimosa/Mimosa_caesalpiniifolia",1,265,0.00377358490566038
+"2693","Puntarenas",515,"9.49989","Bactris","NULL","Arecaceae/Bactris/Bactris_sp1",2,303,0.0066006600660066
+"2694","Puntarenas",515,"9.49989","Compsoneura","Compsoneura excelsa","Myristicaceae/Compsoneura/Compsoneura_excelsa",11,303,0.0363036303630363
+"2695","Puntarenas",515,"9.49989","Croton","Croton megistocarpus","Euphorbiaceae/Croton/Croton_megistocarpus",2,303,0.0066006600660066
+"2696","Puntarenas",515,"9.49989","Lacmellea","Lacmellea zamorae","Apocynaceae/Lacmellea/Lacmellea_zamorae",2,303,0.0066006600660066
+"2697","Puntarenas",515,"9.49989","Virola","Virola koschnyi","Myristicaceae/Virola/Virola_koschnyi",1,303,0.0033003300330033
+"2698","Puntarenas",515,"9.49989","Carapa","Carapa guianensis","Meliaceae/Carapa/Carapa_guianensis",5,303,0.0165016501650165
+"2699","Puntarenas",515,"9.49989","Geonoma","NULL","Arecaceae/Geonoma/Geonoma_sp1",6,303,0.0198019801980198
+"2700","Puntarenas",515,"9.49989","Sorocea","NULL","Moraceae/Sorocea/Sorocea_hispidula",2,303,0.0066006600660066
+"2701","Puntarenas",515,"9.49989","Rinorea","Rinorea hummelii","Violaceae/Rinorea/Rinorea_hummelii",1,303,0.0033003300330033
+"2702","Puntarenas",515,"9.49989","Quiina","Quiina macrophylla","Ochnaceae/Quiina/Quiina_macrophylla",1,303,0.0033003300330033
+"2703","Puntarenas",515,"9.49989","Odontadenia","Odontadenia verrucosa","Apocynaceae/Odontadenia/Odontadenia_verrucosa",6,303,0.0198019801980198
+"2704","Puntarenas",515,"9.49989","Calophyllum","Calophyllum longifolium","Calophyllaceae/Calophyllum/Calophyllum_longifolium",1,303,0.0033003300330033
+"2705","Puntarenas",515,"9.49989","Protium","Protium glabrescens","Burseraceae/Protium/Protium_glabrescens",2,303,0.0066006600660066
+"2707","Puntarenas",515,"9.49989","Rinorea","Rinorea squamata","Violaceae/Rinorea/Rinorea_squamata",3,303,0.0099009900990099
+"2708","Puntarenas",515,"9.49989","Iriartea","Iriartea deltoidea","Arecaceae/Iriartea/Iriartea_deltoidea",20,303,0.066006600660066
+"2709","Puntarenas",515,"9.49989","Aniba","Aniba venezuelana","Lauraceae/Aniba/Aniba_venezuelana",1,303,0.0033003300330033
+"2710","Puntarenas",515,"9.49989","Maranthes","Maranthes panamensis","Chrysobalanaceae/Maranthes/Maranthes_panamensis",1,303,0.0033003300330033
+"2711","Puntarenas",515,"9.49989","Doliocarpus","Doliocarpus multiflorus","Dilleniaceae/Doliocarpus/Doliocarpus_multiflorus",7,303,0.0231023102310231
+"2712","Puntarenas",515,"9.49989","Saurauia","Saurauia yasicae","Actinidiaceae/Saurauia/Saurauia_yasicae",9,303,0.0297029702970297
+"2713","Puntarenas",515,"9.49989","Aegiphila","Aegiphila cephalophora","Lamiaceae/Aegiphila/Aegiphila_cephalophora",1,303,0.0033003300330033
+"2714","Puntarenas",515,"9.49989","Mabea","Mabea excelsa","Euphorbiaceae/Mabea/Mabea_excelsa",6,303,0.0198019801980198
+"2715","Puntarenas",515,"9.49989","Hernandia","Hernandia stenura","Hernandiaceae/Hernandia/Hernandia_stenura",1,303,0.0033003300330033
+"2716","Puntarenas",515,"9.49989","Brosimum","Brosimum utile","Moraceae/Brosimum/Brosimum_utile",6,303,0.0198019801980198
+"2717","Puntarenas",515,"9.49989","Rinorea","Rinorea crenata","Violaceae/Rinorea/Rinorea_crenata",26,303,0.0858085808580858
+"2718","Puntarenas",515,"9.49989","Gymnanthes","Gymnanthes riparia","Euphorbiaceae/Gymnanthes/Gymnanthes_riparia",3,303,0.0099009900990099
+"2721","Puntarenas",515,"9.49989","Swartzia","Swartzia simplex","Fabaceae/Swartzia/Swartzia_simplex",4,303,0.0132013201320132
+"2722","Puntarenas",515,"9.49989","Guarea","Guarea pterorhachis","Meliaceae/Guarea/Guarea_pterorhachis",1,303,0.0033003300330033
+"2723","Puntarenas",515,"9.49989","Inga","Inga jinicuil","Fabaceae/Inga/Inga_jinicuil",1,303,0.0033003300330033
+"2726","Puntarenas",515,"9.49989","Vochysia","Vochysia megalophylla","Vochysiaceae/Vochysia/Vochysia_megalophylla",5,303,0.0165016501650165
+"2727","Puntarenas",515,"9.49989","Dendropanax","Dendropanax arboreus","Araliaceae/Dendropanax/Dendropanax_arboreus",3,303,0.0099009900990099
+"2728","Puntarenas",515,"9.49989","Talisia","Talisia macrophylla","Sapindaceae/Talisia/Talisia_macrophylla",2,303,0.0066006600660066
+"2729","Puntarenas",515,"9.49989","Macrolobium","Macrolobium costaricense","Fabaceae/Macrolobium/Macrolobium_costaricense",1,303,0.0033003300330033
+"2730","Puntarenas",515,"9.49989","Protium","NULL","Burseraceae/Protium/Protium_sp1",3,303,0.0099009900990099
+"2732","Puntarenas",515,"9.49989","Richeria","Richeria dressleri","Phyllanthaceae/Richeria/Richeria_dressleri",2,303,0.0066006600660066
+"2737","Puntarenas",515,"9.49989","Virola","Virola guatemalensis","Myristicaceae/Virola/Virola_guatemalensis",6,303,0.0198019801980198
+"2739","Puntarenas",515,"9.49989","Synechanthus","Synechanthus warscewiczianus","Arecaceae/Synechanthus/Synechanthus_warscewiczianus",4,303,0.0132013201320132
+"2740","Puntarenas",515,"9.49989","Psychotria","Psychotria solitudinum","Rubiaceae/Psychotria/Psychotria_solitudinum",10,303,0.033003300330033
+"2745","Puntarenas",515,"9.49989","Paullinia","Paullinia bracteosa","Sapindaceae/Paullinia/Paullinia_bracteosa",1,303,0.0033003300330033
+"2747","Puntarenas",515,"9.49989","Eugenia","Eugenia acapulcensis","Myrtaceae/Eugenia/Eugenia_acapulcensis",6,303,0.0198019801980198
+"2748","Puntarenas",515,"9.49989","Allomarkgrafia","Allomarkgrafia plumeriiflora","Apocynaceae/Allomarkgrafia/Allomarkgrafia_plumeriiflora",3,303,0.0099009900990099
+"2749","Puntarenas",515,"9.49989","Pouteria","Pouteria subrotata","Sapotaceae/Pouteria/Pouteria_subrotata",3,303,0.0099009900990099
+"2754","Puntarenas",515,"9.49989","Garcinia","Garcinia intermedia","Clusiaceae/Garcinia/Garcinia_intermedia",3,303,0.0099009900990099
+"2755","Puntarenas",515,"9.49989","BignoniaceaeIndet.","NULL","Bignoniaceae/BignoniaceaeIndet/BignoniaceaeIndet_sp6",1,303,0.0033003300330033
+"2758","Puntarenas",515,"9.49989","Mouriri","Mouriri cyphocarpa","Melastomataceae/Mouriri/Mouriri_cyphocarpa",1,303,0.0033003300330033
+"2759","Puntarenas",515,"9.49989","Tovomita","Tovomita longifolia","Clusiaceae/Tovomita/Tovomita_longifolia",3,303,0.0099009900990099
+"2760","Puntarenas",515,"9.49989","Protium","Protium glabrum","Burseraceae/Protium/Protium_glabrum",4,303,0.0132013201320132
+"2764","Puntarenas",515,"9.49989","Chione","Chione venosa","Rubiaceae/Chione/Chione_venosa",12,303,0.0396039603960396
+"2767","Puntarenas",515,"9.49989","Unonopsis","Unonopsis theobromifolia","Annonaceae/Unonopsis/Unonopsis_theobromifolia",2,303,0.0066006600660066
+"2769","Puntarenas",515,"9.49989","Tetrathylacium","Tetrathylacium johansenii","Salicaceae/Tetrathylacium/Tetrathylacium_johansenii",9,303,0.0297029702970297
+"2770","Puntarenas",515,"9.49989","Talauma","Talauma gloriensis","Magnoliaceae/Talauma/Talauma_gloriensis",2,303,0.0066006600660066
+"2772","Puntarenas",515,"9.49989","Tetracera","Tetracera volubilis","Dilleniaceae/Tetracera/Tetracera_volubilis",3,303,0.0099009900990099
+"2775","Puntarenas",515,"9.49989","Maripa","Maripa nicaraguensis","Convolvulaceae/Maripa/Maripa_nicaraguensis",2,303,0.0066006600660066
+"2780","Puntarenas",515,"9.49989","Terminalia","Terminalia amazonia","Combretaceae/Terminalia/Terminalia_amazonia",1,303,0.0033003300330033
+"2781","Puntarenas",515,"9.49989","Bunchosia","Bunchosia ursana","Malpighiaceae/Bunchosia/Bunchosia_ursana",1,303,0.0033003300330033
+"2785","Puntarenas",515,"9.49989","Casearia","Casearia arguta","Salicaceae/Casearia/Casearia_arguta",1,303,0.0033003300330033
+"2787","Puntarenas",515,"9.49989","Chrysophyllum","NULL","Sapotaceae/Chrysophyllum/Chrysophyllum_sp2",1,303,0.0033003300330033
+"2790","Puntarenas",515,"9.49989","Discophora","Discophora guianensis","Stemonuraceae/Discophora/Discophora_guianensis",2,303,0.0066006600660066
+"2793","Puntarenas",515,"9.49989","Otoba","Otoba novogranatensis","Myristicaceae/Otoba/Otoba_novogranatensis",1,303,0.0033003300330033
+"2799","Puntarenas",515,"9.49989","Amyris","Amyris brenesii","Rutaceae/Amyris/Amyris_brenesii",1,303,0.0033003300330033
+"2800","Puntarenas",515,"9.49989","Miconia","Miconia lamprophylla","Melastomataceae/Miconia/Miconia_lamprophylla",1,303,0.0033003300330033
+"2804","Puntarenas",515,"9.49989","Psychotria","Psychotria mortoniana","Rubiaceae/Psychotria/Psychotria_mortoniana",2,303,0.0066006600660066
+"2805","Puntarenas",515,"9.49989","Staphylea","Staphylea occidentalis","Staphyleaceae/Staphylea/Staphylea_occidentalis",2,303,0.0066006600660066
+"2806","Puntarenas",515,"9.49989","MelastomataceaeIndet.","NULL","Melastomataceae/MelastomataceaeIndet/MelastomataceaeIndet_sp1",2,303,0.0066006600660066
+"2809","Puntarenas",515,"9.49989","Trichospermum","Trichospermum grewiifolium","Malvaceae/Trichospermum/Trichospermum_grewiifolium",1,303,0.0033003300330033
+"2810","Puntarenas",515,"9.49989","Heliconia","NULL","Heliconiaceae/Heliconia/Heliconia_sp1",8,303,0.0264026402640264
+"2826","Puntarenas",515,"9.49989","Vitis","NULL","Vitaceae/Vitis/Vitis_sp",2,303,0.0066006600660066
+"2827","Puntarenas",515,"9.49989","Cayaponia","NULL","Cucurbitaceae/Cayaponia/Cayaponia_sp1",1,303,0.0033003300330033
+"2834","Puntarenas",515,"9.49989","Paullinia","Paullinia macrocarpa","Sapindaceae/Paullinia/Paullinia_macrocarpa",1,303,0.0033003300330033
+"2837","Puntarenas",515,"9.49989","Perrottetia","Perrottetia sessiliflora","Dipentodontaceae/Perrottetia/Perrottetia_sessiliflora",1,303,0.0033003300330033
+"2841","Puntarenas",515,"9.49989","Inga","Inga coruscans","Fabaceae/Inga/Inga_coruscans",1,303,0.0033003300330033
+"2842","Puntarenas",515,"9.49989","Minquartia","Minquartia guianensis","Olacaceae/Minquartia/Minquartia_guianensis",1,303,0.0033003300330033
+"2844","Puntarenas",515,"9.49989","Dendropanax","Dendropanax sessiliflorus","Araliaceae/Dendropanax/Dendropanax_sessiliflorus",2,303,0.0066006600660066
+"2846","Puntarenas",515,"9.49989","Perebea","NULL","Moraceae/Perebea/Perebea_sp1",1,303,0.0033003300330033
+"2858","Puntarenas",515,"9.49989","Calatola","Calatola costaricensis","Icacinaceae/Calatola/Calatola_costaricensis",1,303,0.0033003300330033
+"2861","Puntarenas",515,"9.49989","Piper","NULL","Piperaceae/Piper/Piper_sp2",1,303,0.0033003300330033
+"2865","Puntarenas",515,"9.49989","Sorocea","Sorocea pubivena","Moraceae/Sorocea/Sorocea_pubivena",4,303,0.0132013201320132
+"2868","Puntarenas",515,"9.49989","Sloanea","NULL","Elaeocarpaceae/Sloanea/Sloanea_sp1",2,303,0.0066006600660066
+"2875","Puntarenas",515,"9.49989","Ocotea","Ocotea insularis","Lauraceae/Ocotea/Ocotea_insularis",1,303,0.0033003300330033
+"2878","Puntarenas",515,"9.49989","Pseudolmedia","Pseudolmedia glabrata","Moraceae/Pseudolmedia/Pseudolmedia_glabrata",3,303,0.0099009900990099
+"2890","Puntarenas",515,"9.49989","Tetragastris","Tetragastris panamensis","Burseraceae/Tetragastris/Tetragastris_panamensis",1,303,0.0033003300330033
+"2892","Puntarenas",515,"9.49989","Elaeagia","Elaeagia myriantha","Rubiaceae/Elaeagia/Elaeagia_myriantha",3,303,0.0099009900990099
+"2893","Puntarenas",515,"9.49989","Clarisia","Clarisia biflora","Moraceae/Clarisia/Clarisia_biflora",2,303,0.0066006600660066
+"2908","Puntarenas",515,"9.49989","Mendoncia","Mendoncia brenesii","Acanthaceae/Mendoncia/Mendoncia_brenesii",1,303,0.0033003300330033
+"2909","Puntarenas",515,"9.49989","Lunania","Lunania mexicana","Salicaceae/Lunania/Lunania_mexicana",1,303,0.0033003300330033
+"2911","Puntarenas",515,"9.49989","Cardiospermum","Cardiospermum grandiflorum","Sapindaceae/Cardiospermum/Cardiospermum_grandiflorum",1,303,0.0033003300330033
+"2919","Puntarenas",515,"9.49989","Passiflora","NULL","Passifloraceae/Passiflora/Passiflora_sp1",1,303,0.0033003300330033
+"2920","Puntarenas",515,"9.49989","Pterygota","Pterygota excelsa","Malvaceae/Pterygota/Pterygota_excelsa",1,303,0.0033003300330033
+"2925","Puntarenas",515,"9.49989","Neea","NULL","Nyctaginaceae/Neea/Neea_sp1",1,303,0.0033003300330033
+"2926","Puntarenas",515,"9.49989","Stephanopodium","Stephanopodium costaricense","Dichapetalaceae/Stephanopodium/Stephanopodium_costaricense",1,303,0.0033003300330033
+"2930","Puntarenas",515,"9.49989","Forsteronia","Forsteronia myriantha","Apocynaceae/Forsteronia/Forsteronia_myriantha",1,303,0.0033003300330033
+"2931","Puntarenas",515,"9.49989","Nectandra","Nectandra umbrosa","Lauraceae/Nectandra/Nectandra_umbrosa",1,303,0.0033003300330033
+"2936","Puntarenas",515,"9.49989","Pouteria","Pouteria lecythidicarpa","Sapotaceae/Pouteria/Pouteria_lecythidicarpa",1,303,0.0033003300330033
+"2937","Puntarenas",515,"9.49989","Capparidastrum","Capparidastrum frondosum","Capparaceae/Capparidastrum/Capparidastrum_frondosum",1,303,0.0033003300330033
+"2940","Puntarenas",515,"9.49989","Talisia","Talisia nervosa","Sapindaceae/Talisia/Talisia_nervosa",1,303,0.0033003300330033
+"2945","Puntarenas",515,"9.49989","Chionanthus","Chionanthus panamensis","Oleaceae/Chionanthus/Chionanthus_panamensis",3,303,0.0099009900990099
+"2947","Puntarenas",515,"9.49989","Rourea","Rourea glabra","Connaraceae/Rourea/Rourea_glabra",1,303,0.0033003300330033
+"2952","Puntarenas",515,"9.49989","Ardisia","Ardisia dunlapiana","Primulaceae/Ardisia/Ardisia_dunlapiana",1,303,0.0033003300330033
+"2953","Puntarenas",515,"9.49989","Platymiscium","Platymiscium curuense","Fabaceae/Platymiscium/Platymiscium_curuense",2,303,0.0066006600660066
+"2962","Puntarenas",515,"9.49989","Rustia","Rustia costaricensis","Rubiaceae/Rustia/Rustia_costaricensis",1,303,0.0033003300330033
+"2969","Puntarenas",515,"9.49989","Sapium","Sapium laurifolium","Euphorbiaceae/Sapium/Sapium_laurifolium",2,303,0.0066006600660066
+"2970","Puntarenas",515,"9.49989","Hydrangea","Hydrangea peruviana","Hydrangeaceae/Hydrangea/Hydrangea_peruviana",1,303,0.0033003300330033
+"2977","Puntarenas",515,"9.49989","Lozania","Lozania pittieri","Lacistemataceae/Lozania/Lozania_pittieri",2,303,0.0066006600660066
+"2986","Puntarenas",515,"9.49989","Protium","NULL","Burseraceae/Protium/Protium_sp2",1,303,0.0033003300330033
+"2987","Puntarenas",515,"9.49989","Philodendron","NULL","Araceae/Philodendron/Philodendron_sp2",1,303,0.0033003300330033
+"2988","Puntarenas",515,"9.49989","Omphalea","Omphalea diandra","Euphorbiaceae/Omphalea/Omphalea_diandra",1,303,0.0033003300330033
+"2996","San Jose",1060,"9.48283","Schizocalyx","Schizocalyx veraguensis","Rubiaceae/Schizocalyx/Schizocalyx_veraguensis",7,279,0.025089605734767
+"2997","San Jose",1060,"9.48283","Cyathea","NULL","Cyatheaceae/Cyathea/Cyathea_sp1",23,279,0.0824372759856631
+"3000","San Jose",1060,"9.48283","Guatteria","Guatteria diospyroides","Annonaceae/Guatteria/Guatteria_diospyroides",2,279,0.00716845878136201
+"3001","San Jose",1060,"9.48283","Cordia","NULL","Boraginaceae/Cordia/Cordia_sp1",1,279,0.003584229390681
+"3003","San Jose",1060,"9.48283","Sphaeropteris","NULL","Cyatheaceae/Sphaeropteris/Sphaeropteris_sp1",7,279,0.025089605734767
+"3005","San Jose",1060,"9.48283","Tovomita","Tovomita weddelliana","Clusiaceae/Tovomita/Tovomita_weddelliana",2,279,0.00716845878136201
+"3006","San Jose",1060,"9.48283","Psychotria","Psychotria elata","Rubiaceae/Psychotria/Psychotria_elata",4,279,0.014336917562724
+"3007","San Jose",1060,"9.48283","Asplundia","Asplundia longitepala","Cyclanthaceae/Asplundia/Asplundia_longitepala",3,279,0.010752688172043
+"3008","San Jose",1060,"9.48283","Cinnamomum","NULL","Lauraceae/Cinnamomum/Cinnamomum_sp1",4,279,0.014336917562724
+"3009","San Jose",1060,"9.48283","Myrcia","NULL","Myrtaceae/Myrcia/Myrcia_sp2",2,279,0.00716845878136201
+"3010","San Jose",1060,"9.48283","Miconia","Miconia punctata","Melastomataceae/Miconia/Miconia_punctata",1,279,0.003584229390681
+"3011","San Jose",1060,"9.48283","Dystovomita","Dystovomita paniculata","Clusiaceae/Dystovomita/Dystovomita_paniculata",1,279,0.003584229390681
+"3012","San Jose",1060,"9.48283","Faramea","NULL","Rubiaceae/Faramea/Faramea_sp1",1,279,0.003584229390681
+"3014","San Jose",1060,"9.48283","Chrysophyllum","NULL","Sapotaceae/Chrysophyllum/Chrysophyllum_sp1",3,279,0.010752688172043
+"3015","San Jose",1060,"9.48283","Asterogyne","Asterogyne martiana","Arecaceae/Asterogyne/Asterogyne_martiana",6,279,0.021505376344086
+"3016","San Jose",1060,"9.48283","Lacmellea","Lacmellea zamorae","Apocynaceae/Lacmellea/Lacmellea_zamorae",6,279,0.021505376344086
+"3018","San Jose",1060,"9.48283","Croton","Croton megistocarpus","Euphorbiaceae/Croton/Croton_megistocarpus",7,279,0.025089605734767
+"3019","San Jose",1060,"9.48283","Allomarkgrafia","Allomarkgrafia plumeriiflora","Apocynaceae/Allomarkgrafia/Allomarkgrafia_plumeriiflora",1,279,0.003584229390681
+"3021","San Jose",1060,"9.48283","Matayba","Matayba apetala","Sapindaceae/Matayba/Matayba_apetala",1,279,0.003584229390681
+"3023","San Jose",1060,"9.48283","Socratea","Socratea exorrhiza","Arecaceae/Socratea/Socratea_exorrhiza",15,279,0.0537634408602151
+"3026","San Jose",1060,"9.48283","Protium","NULL","Burseraceae/Protium/Protium_sp1",8,279,0.028673835125448
+"3027","San Jose",1060,"9.48283","Pourouma","Pourouma bicolor","Urticaceae/Pourouma/Pourouma_bicolor",1,279,0.003584229390681
+"3028","San Jose",1060,"9.48283","Meliosma","Meliosma grandiflora","Sabiaceae/Meliosma/Meliosma_grandiflora",2,279,0.00716845878136201
+"3030","San Jose",1060,"9.48283","Ardisia","Ardisia dunlapiana","Primulaceae/Ardisia/Ardisia_dunlapiana",3,279,0.010752688172043
+"3033","San Jose",1060,"9.48283","Phaseolus","NULL","Fabaceae/Phaseolus/Phaseolus_sp1",1,279,0.003584229390681
+"3034","San Jose",1060,"9.48283","Myrcia","NULL","Myrtaceae/Myrcia/Myrcia_sp1",7,279,0.025089605734767
+"3035","San Jose",1060,"9.48283","Discophora","Discophora guianensis","Stemonuraceae/Discophora/Discophora_guianensis",4,279,0.014336917562724
+"3036","San Jose",1060,"9.48283","Richeria","Richeria dressleri","Phyllanthaceae/Richeria/Richeria_dressleri",7,279,0.025089605734767
+"3042","San Jose",1060,"9.48283","Perrottetia","Perrottetia sessiliflora","Dipentodontaceae/Perrottetia/Perrottetia_sessiliflora",1,279,0.003584229390681
+"3043","San Jose",1060,"9.48283","Cordia","Cordia croatii","Boraginaceae/Cordia/Cordia_croatii",3,279,0.010752688172043
+"3044","San Jose",1060,"9.48283","Coussapoa","Coussapoa parviceps","Urticaceae/Coussapoa/Coussapoa_parviceps",1,279,0.003584229390681
+"3045","San Jose",1060,"9.48283","Otoba","Otoba novogranatensis","Myristicaceae/Otoba/Otoba_novogranatensis",2,279,0.00716845878136201
+"3046","San Jose",1060,"9.48283","Coussarea","Coussarea caroliana","Rubiaceae/Coussarea/Coussarea_caroliana",4,279,0.014336917562724
+"3047","San Jose",1060,"9.48283","Hedyosmum","Hedyosmum goudotianum","Chloranthaceae/Hedyosmum/Hedyosmum_goudotianum",4,279,0.014336917562724
+"3050","San Jose",1060,"9.48283","Vochysia","Vochysia allenii","Vochysiaceae/Vochysia/Vochysia_allenii",4,279,0.014336917562724
+"3053","San Jose",1060,"9.48283","Ocotea","Ocotea praetermissa","Lauraceae/Ocotea/Ocotea_praetermissa",4,279,0.014336917562724
+"3056","San Jose",1060,"9.48283","Sloanea","Sloanea medusula","Elaeocarpaceae/Sloanea/Sloanea_medusula",2,279,0.00716845878136201
+"3057","San Jose",1060,"9.48283","Pseudolmedia","Pseudolmedia mollis","Moraceae/Pseudolmedia/Pseudolmedia_mollis",3,279,0.010752688172043
+"3060","San Jose",1060,"9.48283","Inga","Inga thibaudiana","Fabaceae/Inga/Inga_thibaudiana",3,279,0.010752688172043
+"3065","San Jose",1060,"9.48283","Virola","Virola macrocarpa","Myristicaceae/Virola/Virola_macrocarpa",2,279,0.00716845878136201
+"3067","San Jose",1060,"9.48283","Strychnos","Strychnos chlorantha","Loganiaceae/Strychnos/Strychnos_chlorantha",2,279,0.00716845878136201
+"3068","San Jose",1060,"9.48283","Coussarea","Coussarea loftonii","Rubiaceae/Coussarea/Coussarea_loftonii",6,279,0.021505376344086
+"3069","San Jose",1060,"9.48283","Pouteria","Pouteria chiricana","Sapotaceae/Pouteria/Pouteria_chiricana",2,279,0.00716845878136201
+"3070","San Jose",1060,"9.48283","Conostegia","Conostegia bracteata","Melastomataceae/Conostegia/Conostegia_bracteata",2,279,0.00716845878136201
+"3072","San Jose",1060,"9.48283","Casearia","Casearia arborea","Salicaceae/Casearia/Casearia_arborea",5,279,0.017921146953405
+"3074","San Jose",1060,"9.48283","Sloanea","Sloanea longipes","Elaeocarpaceae/Sloanea/Sloanea_longipes",1,279,0.003584229390681
+"3075","San Jose",1060,"9.48283","Dendropanax","Dendropanax sessiliflorus","Araliaceae/Dendropanax/Dendropanax_sessiliflorus",6,279,0.021505376344086
+"3077","San Jose",1060,"9.48283","Entada","Entada gigas","Fabaceae/Entada/Entada_gigas",3,279,0.010752688172043
+"3078","San Jose",1060,"9.48283","Compsoneura","Compsoneura excelsa","Myristicaceae/Compsoneura/Compsoneura_excelsa",2,279,0.00716845878136201
+"3080","San Jose",1060,"9.48283","RubiaceaeIndet.","NULL","Rubiaceae/RubiaceaeIndet/Rubiaceae_sp1",1,279,0.003584229390681
+"3082","San Jose",1060,"9.48283","Henriettea","Henriettea tuberculosa","Melastomataceae/Henriettea/Henriettea_tuberculosa",6,279,0.021505376344086
+"3083","San Jose",1060,"9.48283","Elaeagia","NULL","Rubiaceae/Elaeagia/Elaeagia_sp1",6,279,0.021505376344086
+"3084","San Jose",1060,"9.48283","Warszewiczia","Warszewiczia uxpanapensis","Rubiaceae/Warszewiczia/Warszewiczia_uxpanapensis",1,279,0.003584229390681
+"3088","San Jose",1060,"9.48283","Psychotria","NULL","Rubiaceae/Psychotria/Psychotria_sp1",1,279,0.003584229390681
+"3092","San Jose",1060,"9.48283","Dichapetalum","NULL","Dichapetalaceae/Dichapetalum/Dichapetalum_sp1",1,279,0.003584229390681
+"3093","San Jose",1060,"9.48283","Garcinia","Garcinia intermedia","Clusiaceae/Garcinia/Garcinia_intermedia",2,279,0.00716845878136201
+"3096","San Jose",1060,"9.48283","Paullinia","Paullinia imberbis","Sapindaceae/Paullinia/Paullinia_imberbis",2,279,0.00716845878136201
+"3097","San Jose",1060,"9.48283","Quiina","Quiina macrophylla","Ochnaceae/Quiina/Quiina_macrophylla",2,279,0.00716845878136201
+"3099","San Jose",1060,"9.48283","Chrysochlamys","Chrysochlamys skutchii","Clusiaceae/Chrysochlamys/Chrysochlamys_skutchii",2,279,0.00716845878136201
+"3101","San Jose",1060,"9.48283","Unonopsis","Unonopsis pittieri","Annonaceae/Unonopsis/Unonopsis_pittieri",1,279,0.003584229390681
+"3109","San Jose",1060,"9.48283","Erythroxylum","Erythroxylum citrifolium","Erythroxylaceae/Erythroxylum/Erythroxylum_citrifolium",1,279,0.003584229390681
+"3110","San Jose",1060,"9.48283","Sabicea","Sabicea panamensis","Rubiaceae/Sabicea/Sabicea_panamensis",2,279,0.00716845878136201
+"3113","San Jose",1060,"9.48283","MelastomataceaeIndet.","NULL","Melastomataceae/MelastomataceaeIndet/MelastomataceaeIndet_sp2",5,279,0.017921146953405
+"3123","San Jose",1060,"9.48283","Carapa","Carapa guianensis","Meliaceae/Carapa/Carapa_guianensis",2,279,0.00716845878136201
+"3126","San Jose",1060,"9.48283","Bauhinia","Bauhinia guianensis","Fabaceae/Bauhinia/Bauhinia_guianensis",3,279,0.010752688172043
+"3127","San Jose",1060,"9.48283","Sloanea","Sloanea laurifolia","Elaeocarpaceae/Sloanea/Sloanea_laurifolia",1,279,0.003584229390681
+"3130","San Jose",1060,"9.48283","Helicostylis","Helicostylis tovarensis","Moraceae/Helicostylis/Helicostylis_tovarensis",2,279,0.00716845878136201
+"3135","San Jose",1060,"9.48283","Sloanea","Sloanea brenesii","Elaeocarpaceae/Sloanea/Sloanea_brenesii",3,279,0.010752688172043
+"3139","San Jose",1060,"9.48283","Psiguria","Psiguria warscewiczii","Cucurbitaceae/Psiguria/Psiguria_warscewiczii",1,279,0.003584229390681
+"3140","San Jose",1060,"9.48283","Odontadenia","Odontadenia puncticulosa","Apocynaceae/Odontadenia/Odontadenia_puncticulosa",4,279,0.014336917562724
+"3141","San Jose",1060,"9.48283","Combretum","Combretum decandrum","Combretaceae/Combretum/Combretum_decandrum",1,279,0.003584229390681
+"3148","San Jose",1060,"9.48283","Ocotea","Ocotea meziana","Lauraceae/Ocotea/Ocotea_meziana",2,279,0.00716845878136201
+"3149","San Jose",1060,"9.48283","Brosimum","Brosimum guianense","Moraceae/Brosimum/Brosimum_guianense",3,279,0.010752688172043
+"3154","San Jose",1060,"9.48283","Synechanthus","Synechanthus warscewiczianus","Arecaceae/Synechanthus/Synechanthus_warscewiczianus",2,279,0.00716845878136201
+"3162","San Jose",1060,"9.48283","Cleyera","Cleyera theoides","Pentaphylacaceae/Cleyera/Cleyera_theoides",1,279,0.003584229390681
+"3163","San Jose",1060,"9.48283","Pseudolmedia","Pseudolmedia glabrata","Moraceae/Pseudolmedia/Pseudolmedia_glabrata",1,279,0.003584229390681
+"3165","San Jose",1060,"9.48283","Clusia","Clusia palmana","Clusiaceae/Clusia/Clusia_palmana",2,279,0.00716845878136201
+"3170","San Jose",1060,"9.48283","Guarea","NULL","Meliaceae/Guarea/Guarea_sp1",1,279,0.003584229390681
+"3173","San Jose",1060,"9.48283","Stemmadenia","Stemmadenia alfaroi","Apocynaceae/Stemmadenia/Stemmadenia_alfaroi",2,279,0.00716845878136201
+"3176","San Jose",1060,"9.48283","Cymbopetalum","Cymbopetalum costaricense","Annonaceae/Cymbopetalum/Cymbopetalum_costaricense",1,279,0.003584229390681
+"3179","San Jose",1060,"9.48283","Guarea","NULL","Meliaceae/Guarea/Guarea_sp2",2,279,0.00716845878136201
+"3188","San Jose",1060,"9.48283","Posoqueria","Posoqueria coriacea","Rubiaceae/Posoqueria/Posoqueria_coriacea",1,279,0.003584229390681
+"3191","San Jose",1060,"9.48283","Inga","Inga latipes","Fabaceae/Inga/Inga_latipes",1,279,0.003584229390681
+"3199","San Jose",1060,"9.48283","Inga","Inga venusta","Fabaceae/Inga/Inga_venusta",1,279,0.003584229390681
+"3212","San Jose",1060,"9.48283","Philodendron","NULL","Araceae/Philodendron/Philodendron",1,279,0.003584229390681
+"3213","San Jose",1060,"9.48283","Raputia","Raputia heptaphylla","Rutaceae/Raputia/Raputia_heptaphylla",2,279,0.00716845878136201
+"3216","San Jose",1060,"9.48283","Doliocarpus","Doliocarpus multiflorus","Dilleniaceae/Doliocarpus/Doliocarpus_multiflorus",1,279,0.003584229390681
+"3227","San Jose",1060,"9.48283","Perebea","NULL","Moraceae/Perebea/Perebea_sp1",1,279,0.003584229390681
+"3228","San Jose",1060,"9.48283","Gloeospermum","Gloeospermum diversipetalum","Violaceae/Gloeospermum/Gloeospermum_diversipetalum",1,279,0.003584229390681
+"3233","San Jose",1060,"9.48283","Hieronyma","Hieronyma oblonga","Phyllanthaceae/Hieronyma/Hieronyma_oblonga",1,279,0.003584229390681
+"3234","San Jose",1060,"9.48283","Sarcorhachis","Sarcorhachis naranjoana","Piperaceae/Sarcorhachis/Sarcorhachis_naranjoana",1,279,0.003584229390681
+"3237","San Jose",1060,"9.48283","Aegiphila","NULL","Lamiaceae/Aegiphila/Aegiphila_sp1",1,279,0.003584229390681
+"3239","San Jose",1060,"9.48283","Mendoncia","Mendoncia brenesii","Acanthaceae/Mendoncia/Mendoncia_brenesii",1,279,0.003584229390681
+"3251","San Jose",1060,"9.48283","Guettarda","Guettarda foliacea","Rubiaceae/Guettarda/Guettarda_foliacea",1,279,0.003584229390681
+"3261","San Jose",1060,"9.48283","Licaria","NULL","Lauraceae/Licaria/Licaria_sp1",1,279,0.003584229390681
+"3265","San Jose",1060,"9.48283","Gordonia","Gordonia fruticosa","Theaceae/Gordonia/Gordonia_fruticosa",1,279,0.003584229390681
+"3267","San Jose",1060,"9.48283","Siparuna","NULL","Siparunaceae/Siparuna/Siparuna_sp1",1,279,0.003584229390681
+"3270","San Jose",1060,"9.48283","Conostegia","NULL","Melastomataceae/Conostegia/Conostegia_sp1",1,279,0.003584229390681
+"3272","San Jose",1060,"9.48283","Heliconia","Heliconia danielsiana","Heliconiaceae/Heliconia/Heliconia_danielsiana",2,279,0.00716845878136201
+"3275","San Jose",2050,"9.53333","Styrax","Styrax argenteus","Styracaceae/Styrax/Styrax_argenteus",3,291,0.0103092783505155
+"3277","San Jose",2050,"9.53333","Cleyera","Cleyera theoides","Pentaphylacaceae/Cleyera/Cleyera_theoides",3,291,0.0103092783505155
+"3280","San Jose",2050,"9.53333","Hydrangea","Hydrangea asterolasia","Hydrangeaceae/Hydrangea/Hydrangea_asterolasia",4,291,0.013745704467354
+"3284","San Jose",2050,"9.53333","Guatteria","Guatteria oliviformis","Annonaceae/Guatteria/Guatteria_oliviformis",9,291,0.0309278350515464
+"3291","San Jose",2050,"9.53333","Miconia","Miconia danielii","Melastomataceae/Miconia/Miconia_danielii",6,291,0.0206185567010309
+"3297","San Jose",2050,"9.53333","Blakea","Blakea gracilis","Melastomataceae/Blakea/Blakea_gracilis",2,291,0.00687285223367698
+"3299","San Jose",2050,"9.53333","Sapium","Sapium pachystachys","Euphorbiaceae/Sapium/Sapium_pachystachys",1,291,0.00343642611683849
+"3300","San Jose",2050,"9.53333","AcanthaceaeIndet.","NULL","Acanthaceae/AcanthaceaeIndet/AcanthaceaeIndet_sp1",1,291,0.00343642611683849
+"3301","San Jose",2050,"9.53333","Billia","Billia rosea","Sapindaceae/Billia/Billia_rosea",3,291,0.0103092783505155
+"3302","San Jose",2050,"9.53333","Quercus","Quercus benthamii","Fagaceae/Quercus/Quercus_benthamii",9,291,0.0309278350515464
+"3311","San Jose",2050,"9.53333","Quercus","Quercus salicifolia","Fagaceae/Quercus/Quercus_salicifolia",10,291,0.0343642611683849
+"3313","San Jose",2050,"9.53333","Meliosma","Meliosma vernicosa","Sabiaceae/Meliosma/Meliosma_vernicosa",21,291,0.0721649484536082
+"3319","San Jose",2050,"9.53333","Prestoea","Prestoea acuminata","Arecaceae/Prestoea/Prestoea_acuminata",4,291,0.013745704467354
+"3323","San Jose",2050,"9.53333","Dicksonia","Dicksonia sellowiana","Dicksoniaceae/Dicksonia/Dicksonia_sellowiana",4,291,0.013745704467354
+"3327","San Jose",2050,"9.53333","Chusquea","NULL","Poaceae/Chusquea/Chusquea_sp1",9,291,0.0309278350515464
+"3336","San Jose",2050,"9.53333","Geonoma","Geonoma interrupta","Arecaceae/Geonoma/Geonoma_interrupta",7,291,0.0240549828178694
+"3343","San Jose",2050,"9.53333","Ardisia","NULL","Primulaceae/Ardisia/Ardisia_sp1",2,291,0.00687285223367698
+"3344","San Jose",2050,"9.53333","Symplocos","Symplocos austin-smithii","Symplocaceae/Symplocos/Symplocos_austin-smithii",3,291,0.0103092783505155
+"3345","San Jose",2050,"9.53333","Amphitecna","Amphitecna sessilifolia","Bignoniaceae/Amphitecna/Amphitecna_sessilifolia",5,291,0.0171821305841924
+"3350","San Jose",2050,"9.53333","Oreopanax","Oreopanax xalapensis","Araliaceae/Oreopanax/Oreopanax_xalapensis",21,291,0.0721649484536082
+"3370","San Jose",2050,"9.53333","Ardisia","NULL","Primulaceae/Ardisia/Ardisia_sp3",9,291,0.0309278350515464
+"3371","San Jose",2050,"9.53333","MyrsinaceaeIndet.","NULL","Primulaceae/MyrsinaceaeIndet/MyrsinaceaeIndet_sp2",9,291,0.0309278350515464
+"3375","San Jose",2050,"9.53333","Dendropanax","Dendropanax querceti","Araliaceae/Dendropanax/Dendropanax_querceti",16,291,0.0549828178694158
+"3377","San Jose",2050,"9.53333","Verbesina","Verbesina oerstediana","Asteraceae/Verbesina/Verbesina_oerstediana",19,291,0.0652920962199313
+"3396","San Jose",2050,"9.53333","Pentacalia","Pentacalia parasitica","Asteraceae/Pentacalia/Pentacalia_parasitica",2,291,0.00687285223367698
+"3399","San Jose",2050,"9.53333","Chrysochlamys","Chrysochlamys allenii","Clusiaceae/Chrysochlamys/Chrysochlamys_allenii",6,291,0.0206185567010309
+"3405","San Jose",2050,"9.53333","Palicourea","Palicourea salicifolia","Rubiaceae/Palicourea/Palicourea_salicifolia",3,291,0.0103092783505155
+"3406","San Jose",2050,"9.53333","Psychotria","NULL","Rubiaceae/Psychotria/Psychotria_sp5",9,291,0.0309278350515464
+"3415","San Jose",2050,"9.53333","Ilex","NULL","Aquifoliaceae/Ilex/Ilex_sp2",2,291,0.00687285223367698
+"3416","San Jose",2050,"9.53333","Ilex","Ilex skutchii","Aquifoliaceae/Ilex/Ilex_skutchii",5,291,0.0171821305841924
+"3421","San Jose",2050,"9.53333","Ocotea","Ocotea valerioana","Lauraceae/Ocotea/Ocotea_valerioana",2,291,0.00687285223367698
+"3422","San Jose",2050,"9.53333","Ocotea","Ocotea insularis","Lauraceae/Ocotea/Ocotea_insularis",14,291,0.0481099656357388
+"3436","San Jose",2050,"9.53333","Perrottetia","Perrottetia longistylis","Dipentodontaceae/Perrottetia/Perrottetia_longistylis",1,291,0.00343642611683849
+"3437","San Jose",2050,"9.53333","Microtropis","Microtropis occidentalis","Celastraceae/Microtropis/Microtropis_occidentalis",2,291,0.00687285223367698
+"3441","San Jose",2050,"9.53333","Freziera","Freziera candicans","Pentaphylacaceae/Freziera/Freziera_candicans",4,291,0.013745704467354
+"3445","San Jose",2050,"9.53333","Nectandra","Nectandra cufodontisii","Lauraceae/Nectandra/Nectandra_cufodontisii",1,291,0.00343642611683849
+"3446","San Jose",2050,"9.53333","Cornus","Cornus disciflora","Cornaceae/Cornus/Cornus_disciflora",5,291,0.0171821305841924
+"3451","San Jose",2050,"9.53333","Hedyosmum","Hedyosmum goudotianum","Chloranthaceae/Hedyosmum/Hedyosmum_goudotianum",1,291,0.00343642611683849
+"3452","San Jose",2050,"9.53333","Clusia","Clusia salvinii","Clusiaceae/Clusia/Clusia_salvinii",3,291,0.0103092783505155
+"3455","San Jose",2050,"9.53333","Fuchsia","Fuchsia paniculata","Onagraceae/Fuchsia/Fuchsia_paniculata",2,291,0.00687285223367698
+"3457","San Jose",2050,"9.53333","Viburnum","Viburnum costaricanum","Adoxaceae/Viburnum/Viburnum_costaricanum",4,291,0.013745704467354
+"3461","San Jose",2050,"9.53333","Morus","Morus insignis","Moraceae/Morus/Morus_insignis",1,291,0.00343642611683849
+"3462","San Jose",2050,"9.53333","Guarea","Guarea glabra","Meliaceae/Guarea/Guarea_glabra",1,291,0.00343642611683849
+"3463","San Jose",2050,"9.53333","Zanthoxylum","NULL","Rutaceae/Zanthoxylum/Zanthoxylum_sp1",2,291,0.00687285223367698
+"3464","San Jose",2050,"9.53333","Staphylea","Staphylea occidentalis","Staphyleaceae/Staphylea/Staphylea_occidentalis",2,291,0.00687285223367698
+"3493","San Jose",2050,"9.53333","Blakea","Blakea storkii","Melastomataceae/Blakea/Blakea_storkii",5,291,0.0171821305841924
+"3498","San Jose",2050,"9.53333","Ocotea","Ocotea praetermissa","Lauraceae/Ocotea/Ocotea_praetermissa",3,291,0.0103092783505155
+"3503","San Jose",2050,"9.53333","Alchornea","Alchornea latifolia","Euphorbiaceae/Alchornea/Alchornea_latifolia",1,291,0.00343642611683849
+"3504","San Jose",2050,"9.53333","Saurauia","Saurauia montana","Actinidiaceae/Saurauia/Saurauia_montana",1,291,0.00343642611683849
+"3505","San Jose",2050,"9.53333","Siparuna","Siparuna gesnerioides","Siparunaceae/Siparuna/Siparuna_gesnerioides",2,291,0.00687285223367698
+"3507","San Jose",2050,"9.53333","Geonoma","Geonoma orbignyana","Arecaceae/Geonoma/Geonoma_orbignyana",1,291,0.00343642611683849
+"3509","San Jose",2050,"9.53333","Oreopanax","Oreopanax oerstedianus","Araliaceae/Oreopanax/Oreopanax_oerstedianus",1,291,0.00343642611683849
+"3510","San Jose",2050,"9.53333","Arachnothryx","Arachnothryx buddleioides","Rubiaceae/Arachnothryx/Arachnothryx_buddleioides",5,291,0.0171821305841924
+"3515","San Jose",2050,"9.53333","Rogiera","Rogiera amoena","Rubiaceae/Rogiera/Rogiera_amoena",3,291,0.0103092783505155
+"3518","San Jose",2050,"9.53333","RubiaceaeIndet.","NULL","Rubiaceae/RubiaceaeIndet/RubiaceaeIndet_sp3",1,291,0.00343642611683849
+"3519","San Jose",2050,"9.53333","Palicourea","NULL","Rubiaceae/Palicourea/Palicourea_sp2",2,291,0.00687285223367698
+"3532","San Jose",2050,"9.53333","Quercus","Quercus copeyensis","Fagaceae/Quercus/Quercus_copeyensis",4,291,0.013745704467354
+"3538","San Jose",2050,"9.53333","Croton","Croton draco","Euphorbiaceae/Croton/Croton_draco",1,291,0.00343642611683849
+"3540","San Jose",2050,"9.53333","Mollinedia","Mollinedia costaricensis","Monimiaceae/Mollinedia/Mollinedia_costaricensis",1,291,0.00343642611683849
+"3542","San Jose",2050,"9.53333","Magnolia","Magnolia poasana","Magnoliaceae/Magnolia/Magnolia_poasana",1,291,0.00343642611683849
+"3544","San Jose",2050,"9.53333","Trichilia","Trichilia havanensis","Meliaceae/Trichilia/Trichilia_havanensis",1,291,0.00343642611683849
+"3546","San Jose",2050,"9.53333","Picramnia","Picramnia antidesma","Picramniaceae/Picramnia/Picramnia_antidesma",1,291,0.00343642611683849
+"3548","San Jose",2050,"9.53333","Persea","Persea americana","Lauraceae/Persea/Persea_americana",2,291,0.00687285223367698
+"3550","San Jose",2050,"9.53333","Ocotea","NULL","Lauraceae/Ocotea/Ocotea_sp2",1,291,0.00343642611683849
+"3559","San Jose",2050,"9.53333","Brunellia","Brunellia costaricensis","Brunelliaceae/Brunellia/Brunellia_costaricensis",1,291,0.00343642611683849
+"3565","San Jose",2050,"9.53333","Cyathea","Cyathea caracasana","Cyatheaceae/Cyathea/Cyathea_caracasana",1,291,0.00343642611683849
+"3566","San Jose",2430,"9.54941","Drimys","Drimys granadensis","Winteraceae/Drimys/Drimys_granadensis",2,81,0.0246913580246914
+"3568","San Jose",2430,"9.54941","Palicourea","Palicourea salicifolia","Rubiaceae/Palicourea/Palicourea_salicifolia",1,81,0.0123456790123457
+"3569","San Jose",2430,"9.54941","Cleyera","Cleyera theoides","Pentaphylacaceae/Cleyera/Cleyera_theoides",2,81,0.0246913580246914
+"3571","San Jose",2430,"9.54941","Magnolia","Magnolia sororum","Magnoliaceae/Magnolia/Magnolia_sororum",2,81,0.0246913580246914
+"3573","San Jose",2430,"9.54941","Microtropis","Microtropis occidentalis","Celastraceae/Microtropis/Microtropis_occidentalis",2,81,0.0246913580246914
+"3575","San Jose",2430,"9.54941","Quercus","Quercus copeyensis","Fagaceae/Quercus/Quercus_copeyensis",3,81,0.037037037037037
+"3577","San Jose",2430,"9.54941","Symplocos","Symplocos retusa","Symplocaceae/Symplocos/Symplocos_retusa",2,81,0.0246913580246914
+"3578","San Jose",2430,"9.54941","Symplocos","Symplocos austin-smithii","Symplocaceae/Symplocos/Symplocos_austin-smithii",1,81,0.0123456790123457
+"3579","San Jose",2430,"9.54941","Ocotea","Ocotea austinii","Lauraceae/Ocotea/Ocotea_austinii",3,81,0.037037037037037
+"3581","San Jose",2430,"9.54941","Ilex","NULL","Aquifoliaceae/Ilex/Ilex_sp2",1,81,0.0123456790123457
+"3582","San Jose",2430,"9.54941","Nectandra","Nectandra cufodontisii","Lauraceae/Nectandra/Nectandra_cufodontisii",1,81,0.0123456790123457
+"3583","San Jose",2430,"9.54941","Cornus","Cornus disciflora","Cornaceae/Cornus/Cornus_disciflora",2,81,0.0246913580246914
+"3585","San Jose",2430,"9.54941","Billia","Billia rosea","Sapindaceae/Billia/Billia_rosea",1,81,0.0123456790123457
+"3586","San Jose",2430,"9.54941","Hedyosmum","Hedyosmum goudotianum","Chloranthaceae/Hedyosmum/Hedyosmum_goudotianum",3,81,0.037037037037037
+"3589","San Jose",2430,"9.54941","Arachnothryx","Arachnothryx buddleioides","Rubiaceae/Arachnothryx/Arachnothryx_buddleioides",4,81,0.0493827160493827
+"3593","San Jose",2430,"9.54941","Quercus","Quercus salicifolia","Fagaceae/Quercus/Quercus_salicifolia",3,81,0.037037037037037
+"3597","San Jose",2430,"9.54941","Miconia","NULL","Melastomataceae/Miconia/Miconia_sp1",2,81,0.0246913580246914
+"3599","San Jose",2430,"9.54941","Styrax","Styrax argenteus","Styracaceae/Styrax/Styrax_argenteus",2,81,0.0246913580246914
+"3600","San Jose",2430,"9.54941","Ilex","NULL","Aquifoliaceae/Ilex/Ilex_sp3",3,81,0.037037037037037
+"3601","San Jose",2430,"9.54941","Vaccinium","Vaccinium consanguineum","Ericaceae/Vaccinium/Vaccinium_consanguineum",2,81,0.0246913580246914
+"3603","San Jose",2430,"9.54941","Ardisia","Ardisia glandulosomarginata","Primulaceae/Ardisia/Ardisia_glandulosomarginata",4,81,0.0493827160493827
+"3604","San Jose",2430,"9.54941","Oreopanax","Oreopanax xalapensis","Araliaceae/Oreopanax/Oreopanax_xalapensis",2,81,0.0246913580246914
+"3607","San Jose",2430,"9.54941","Weinmannia","Weinmannia pinnata","Cunoniaceae/Weinmannia/Weinmannia_pinnata",2,81,0.0246913580246914
+"3609","San Jose",2430,"9.54941","Viburnum","Viburnum stellatotomentosum","Adoxaceae/Viburnum/Viburnum_stellatotomentosum",2,81,0.0246913580246914
+"3611","San Jose",2430,"9.54941","Dendropanax","Dendropanax querceti","Araliaceae/Dendropanax/Dendropanax_querceti",2,81,0.0246913580246914
+"3614","San Jose",2430,"9.54941","Alfaroa","Alfaroa costaricensis","Juglandaceae/Alfaroa/Alfaroa_costaricensis",3,81,0.037037037037037
+"3618","San Jose",2430,"9.54941","Myrsine","Myrsine juergensenii","Primulaceae/Myrsine/Myrsine_juergensenii",2,81,0.0246913580246914
+"3620","San Jose",2430,"9.54941","Rhamnus","Rhamnus oreodendron","Rhamnaceae/Rhamnus/Rhamnus_oreodendron",1,81,0.0123456790123457
+"3623","San Jose",2430,"9.54941","Quercus","Quercus benthamii","Fagaceae/Quercus/Quercus_benthamii",2,81,0.0246913580246914
+"3624","San Jose",2430,"9.54941","Brunellia","Brunellia costaricensis","Brunelliaceae/Brunellia/Brunellia_costaricensis",1,81,0.0123456790123457
+"3625","San Jose",2430,"9.54941","Anthurium","Anthurium concinnatum","Araceae/Anthurium/Anthurium_concinnatum",1,81,0.0123456790123457
+"3626","San Jose",2430,"9.54941","Geonoma","Geonoma orbignyana","Arecaceae/Geonoma/Geonoma_orbignyana",2,81,0.0246913580246914
+"3628","San Jose",2430,"9.54941","Dicksonia","Dicksonia sellowiana","Dicksoniaceae/Dicksonia/Dicksonia_sellowiana",2,81,0.0246913580246914
+"3631","San Jose",2430,"9.54941","Bunchosia","Bunchosia ternata","Malpighiaceae/Bunchosia/Bunchosia_ternata",2,81,0.0246913580246914
+"3633","San Jose",2430,"9.54941","Prunus","Prunus fortunensis","Rosaceae/Prunus/Prunus_fortunensis",2,81,0.0246913580246914
+"3635","San Jose",2430,"9.54941","Zanthoxylum","Zanthoxylum melanostictum","Rutaceae/Zanthoxylum/Zanthoxylum_melanostictum",1,81,0.0123456790123457
+"3636","San Jose",2430,"9.54941","Satyria","Satyria warszewiczii","Ericaceae/Satyria/Satyria_warszewiczii",2,81,0.0246913580246914
+"3638","San Jose",2430,"9.54941","Trichilia","Trichilia havanensis","Meliaceae/Trichilia/Trichilia_havanensis",2,81,0.0246913580246914
+"3640","San Jose",2430,"9.54941","Verbesina","Verbesina oerstediana","Asteraceae/Verbesina/Verbesina_oerstediana",2,81,0.0246913580246914
+"3645","San Jose",2430,"9.54941","Ocotea","Ocotea pittieri","Lauraceae/Ocotea/Ocotea_pittieri",2,81,0.0246913580246914
+"3647","San Jose",3250,"9.55875","Gaiadendron","Gaiadendron punctatum","Loranthaceae/Gaiadendron/Gaiadendron_punctatum",1,27,0.037037037037037
+"3648","San Jose",3250,"9.55875","Hypericum","Hypericum irazuense","Hypericaceae/Hypericum/Hypericum_irazuense",1,27,0.037037037037037
+"3649","San Jose",3250,"9.55875","Escallonia","Escallonia myrtilloides","Escalloniaceae/Escallonia/Escallonia_myrtilloides",1,27,0.037037037037037
+"3650","San Jose",3250,"9.55875","Symplocos","Symplocos serrulata","Symplocaceae/Symplocos/Symplocos_serrulata",1,27,0.037037037037037
+"3651","San Jose",3250,"9.55875","Garrya","Garrya laurifolia","Garryaceae/Garrya/Garrya_laurifolia",1,27,0.037037037037037
+"3652","San Jose",3250,"9.55875","Vaccinium","Vaccinium consanguineum","Ericaceae/Vaccinium/Vaccinium_consanguineum",1,27,0.037037037037037
+"3653","San Jose",3250,"9.55875","Viburnum","Viburnum costaricanum","Adoxaceae/Viburnum/Viburnum_costaricanum",1,27,0.037037037037037
+"3654","San Jose",3250,"9.55875","Myrsine","Myrsine dependens","Primulaceae/Myrsine/Myrsine_dependens",1,27,0.037037037037037
+"3655","San Jose",3250,"9.55875","Quercus","Quercus costaricensis","Fagaceae/Quercus/Quercus_costaricensis",1,27,0.037037037037037
+"3656","San Jose",3250,"9.55875","Miconia","Miconia schnellii","Melastomataceae/Miconia/Miconia_schnellii",1,27,0.037037037037037
+"3657","San Jose",3250,"9.55875","Oreopanax","NULL","Araliaceae/Oreopanax/Oreopanax_sp1",1,27,0.037037037037037
+"3658","San Jose",3250,"9.55875","Comarostaphylis","Comarostaphylis arbutoides","Ericaceae/Comarostaphylis/Comarostaphylis_arbutoides",1,27,0.037037037037037
+"3659","San Jose",3250,"9.55875","Chusquea","NULL","Poaceae/Chusquea/Chusquea_sp1",1,27,0.037037037037037
+"3660","San Jose",3250,"9.55875","Schefflera","Schefflera rodriguesiana","Araliaceae/Schefflera/Schefflera_rodriguesiana",1,27,0.037037037037037
+"3661","San Jose",3250,"9.55875","Buddleja","Buddleja nitida","Scrophulariaceae/Buddleja/Buddleja_nitida",1,27,0.037037037037037
+"3662","San Jose",3250,"9.55875","Clethra","Clethra gelida","Clethraceae/Clethra/Clethra_gelida",1,27,0.037037037037037
+"3663","San Jose",3250,"9.55875","Weinmannia","Weinmannia pinnata","Cunoniaceae/Weinmannia/Weinmannia_pinnata",1,27,0.037037037037037
+"3664","San Jose",3250,"9.55875","Rhamnus","Rhamnus oreodendron","Rhamnaceae/Rhamnus/Rhamnus_oreodendron",1,27,0.037037037037037
+"3665","San Jose",3250,"9.55875","Oreopanax","Oreopanax xalapensis","Araliaceae/Oreopanax/Oreopanax_xalapensis",1,27,0.037037037037037
+"3666","San Jose",3250,"9.55875","Myrrhidendron","Myrrhidendron donnellsmithii","Apiaceae/Myrrhidendron/Myrrhidendron_donnellsmithii",1,27,0.037037037037037
+"3667","San Jose",3250,"9.55875","Miconia","Miconia talamancensis","Melastomataceae/Miconia/Miconia_talamancensis",1,27,0.037037037037037
+"3668","San Jose",3250,"9.55875","Drimys","Drimys granadensis","Winteraceae/Drimys/Drimys_granadensis",1,27,0.037037037037037
+"3669","San Jose",3250,"9.55875","Hesperomeles","Hesperomeles heterophylla","Rosaceae/Hesperomeles/Hesperomeles_heterophylla",1,27,0.037037037037037
+"3670","San Jose",3250,"9.55875","Maytenus","Maytenus blepharodes","Celastraceae/Maytenus/Maytenus_blepharodes",1,27,0.037037037037037
+"3671","San Jose",3250,"9.55875","Ugni","NULL","Myrtaceae/Ugni/Ugni_myrtillioides",1,27,0.037037037037037
+"3672","San Jose",3250,"9.55875","Macleania","Macleania rupestris","Ericaceae/Macleania/Macleania_rupestris",1,27,0.037037037037037
+"3673","San Jose",3250,"9.55875","Viburnum","Viburnum venustum","Adoxaceae/Viburnum/Viburnum_venustum",1,27,0.037037037037037
+"3674","California",686,"36.5172","Quercus","Quercus chrysolepis","Fagaceae/Quercus/Quercus_chrysolepis",2,31,0.0645161290322581
+"3675","California",686,"36.5172","Quercus","Quercus wislizeni","Fagaceae/Quercus/Quercus_wislizeni",8,31,0.258064516129032
+"3678","California",686,"36.5172","Toxicodendron","Toxicodendron diversilobum","Anacardiaceae/Toxicodendron/Toxicodendron_diversilobum",1,31,0.032258064516129
+"3679","California",686,"36.5172","Quercus","Quercus douglasii","Fagaceae/Quercus/Quercus_douglasii",7,31,0.225806451612903
+"3681","California",686,"36.5172","Rhamnus","Rhamnus ilicifolia","Rhamnaceae/Rhamnus/Rhamnus_ilicifolia",4,31,0.129032258064516
+"3689","California",686,"36.5172","Cercocarpus","Cercocarpus betuloides","Rosaceae/Cercocarpus/Cercocarpus_betuloides",2,31,0.0645161290322581
+"3691","California",686,"36.5172","Arctostaphylos","Arctostaphylos viscida","Ericaceae/Arctostaphylos/Arctostaphylos_viscida",2,31,0.0645161290322581
+"3697","California",686,"36.5172","Adenostoma","Adenostoma fasciculatum","Rosaceae/Adenostoma/Adenostoma_fasciculatum",5,31,0.161290322580645
+"3705","California",757,"36.5167","Rhamnus","Rhamnus ilicifolia","Rhamnaceae/Rhamnus/Rhamnus_ilicifolia",5,38,0.131578947368421
+"3706","California",757,"36.5167","Quercus","Quercus wislizeni","Fagaceae/Quercus/Quercus_wislizeni",19,38,0.5
+"3708","California",757,"36.5167","Cercocarpus","Cercocarpus betuloides","Rosaceae/Cercocarpus/Cercocarpus_betuloides",1,38,0.0263157894736842
+"3709","California",757,"36.5167","Aesculus","Aesculus californica","Sapindaceae/Aesculus/Aesculus_californica",7,38,0.184210526315789
+"3715","California",757,"36.5167","Cercis","Cercis occidentalis","Fabaceae/Cercis/Cercis_occidentalis",6,38,0.157894736842105
+"3743","California",1204,"36.5381","Quercus","Quercus chrysolepis","Fagaceae/Quercus/Quercus_chrysolepis",12,123,0.0975609756097561
+"3745","California",1204,"36.5381","Umbellularia","Umbellularia californica","Lauraceae/Umbellularia/Umbellularia_californica",22,123,0.178861788617886
+"3747","California",1204,"36.5381","Calocedrus","Calocedrus decurrens","Cupressaceae/Calocedrus/Calocedrus_decurrens",71,123,0.577235772357724
+"3750","California",1204,"36.5381","Toxicodendron","Toxicodendron diversilobum","Anacardiaceae/Toxicodendron/Toxicodendron_diversilobum",1,123,0.00813008130081301
+"3754","California",1204,"36.5381","Arctostaphylos","Arctostaphylos viscida","Ericaceae/Arctostaphylos/Arctostaphylos_viscida",1,123,0.00813008130081301
+"3755","California",1204,"36.5381","Quercus","Quercus kelloggii","Fagaceae/Quercus/Quercus_kelloggii",6,123,0.0487804878048781
+"3756","California",1204,"36.5381","Rhamnus","Rhamnus rubra","Rhamnaceae/Rhamnus/Rhamnus_rubra",6,123,0.0487804878048781
+"3757","California",1204,"36.5381","Rhamnus","Rhamnus ilicifolia","Rhamnaceae/Rhamnus/Rhamnus_ilicifolia",1,123,0.00813008130081301
+"3782","California",1204,"36.5381","Abies","Abies magnifica","Pinaceae/Abies/Abies_magnifica",1,123,0.00813008130081301
+"3798","California",1204,"36.5381","Crataegus","NULL","Rosaceae/Crataegus/Crataegus_sp1",1,123,0.00813008130081301
+"3865","California",1204,"36.5381","Philadelphus","Philadelphus lewisii","Hydrangeaceae/Philadelphus/Philadelphus_lewisii",1,123,0.00813008130081301
+"3866","California",1608,"36.5704","Calocedrus","Calocedrus decurrens","Cupressaceae/Calocedrus/Calocedrus_decurrens",28,146,0.191780821917808
+"3867","California",1608,"36.5704","Pinus","Pinus lambertiana","Pinaceae/Pinus/Pinus_lambertiana",9,146,0.0616438356164384
+"3868","California",1608,"36.5704","Ceanothus","Ceanothus integerrimus","Rhamnaceae/Ceanothus/Ceanothus_integerrimus",42,146,0.287671232876712
+"3869","California",1608,"36.5704","Pinus","Pinus ponderosa","Pinaceae/Pinus/Pinus_ponderosa",8,146,0.0547945205479452
+"3875","California",1608,"36.5704","Quercus","Quercus kelloggii","Fagaceae/Quercus/Quercus_kelloggii",24,146,0.164383561643836
+"3883","California",1608,"36.5704","Arctostaphylos","Arctostaphylos viscida","Ericaceae/Arctostaphylos/Arctostaphylos_viscida",1,146,0.00684931506849315
+"3889","California",1608,"36.5704","Pseudotsuga","Pseudotsuga menziesii","Pinaceae/Pseudotsuga/Pseudotsuga_menziesii",34,146,0.232876712328767
+"4012","California",1934,"36.5603","Abies","Abies magnifica","Pinaceae/Abies/Abies_magnifica",11,31,0.354838709677419
+"4014","California",1934,"36.5603","Cornus","Cornus sericea","Cornaceae/Cornus/Cornus_sericea",6,31,0.193548387096774
+"4017","California",1934,"36.5603","Sequoiadendron","Sequoiadendron giganteum","Cupressaceae/Sequoiadendron/Sequoiadendron_giganteum",3,31,0.0967741935483871
+"4024","California",1934,"36.5603","Cornus","Cornus nuttallii","Cornaceae/Cornus/Cornus_nuttallii",9,31,0.290322580645161
+"4028","California",1934,"36.5603","Chrysolepis","Chrysolepis sempervirens","Fagaceae/Chrysolepis/Chrysolepis_sempervirens",2,31,0.0645161290322581
+"4043","California",2103,"36.632","Chrysolepis","Chrysolepis sempervirens","Fagaceae/Chrysolepis/Chrysolepis_sempervirens",30,45,0.666666666666667
+"4048","California",2103,"36.632","Abies","Abies concolor","Pinaceae/Abies/Abies_concolor",10,45,0.222222222222222
+"4052","California",2103,"36.632","Sequoiadendron","Sequoiadendron giganteum","Cupressaceae/Sequoiadendron/Sequoiadendron_giganteum",1,45,0.0222222222222222
+"4053","California",2103,"36.632","Ceanothus","Ceanothus cordulatus","Rhamnaceae/Ceanothus/Ceanothus_cordulatus",1,45,0.0222222222222222
+"4061","California",2103,"36.632","Pinus","Pinus lambertiana","Pinaceae/Pinus/Pinus_lambertiana",3,45,0.0666666666666667
+"4088","California",2742,"36.4735","Pinus","Pinus contorta","Pinaceae/Pinus/Pinus_contorta",1,65,0.0153846153846154
+"4089","California",2742,"36.4735","Abies","Abies magnifica","Pinaceae/Abies/Abies_magnifica",55,65,0.846153846153846
+"4092","California",2742,"36.4735","Pinus","Pinus albicaulis","Pinaceae/Pinus/Pinus_albicaulis",9,65,0.138461538461538
+"4153","California",3187,"36.4444","Pinus","Pinus balfouriana","Pinaceae/Pinus/Pinus_balfouriana",14,14,1
+"4167","Tamaulipas",835,"23.0575","Persea","Persea americana","Lauraceae/Persea/Persea_americana",6,244,0.0245901639344262
+"4168","Tamaulipas",835,"23.0575","Ficus","Ficus cotinifolia","Moraceae/Ficus/Ficus_cotinifolia",1,244,0.00409836065573771
+"4169","Tamaulipas",835,"23.0575","Vitis","NULL","Vitaceae/Vitis/Vitis_sp1",20,244,0.0819672131147541
+"4170","Tamaulipas",835,"23.0575","Quercus","Quercus germana","Fagaceae/Quercus/Quercus_germana",3,244,0.0122950819672131
+"4171","Tamaulipas",835,"23.0575","Berberis","Berberis hartwegii","Berberidaceae/Berberis/Berberis_hartwegii",1,244,0.00409836065573771
+"4172","Tamaulipas",835,"23.0575","Colubrina","Colubrina greggii","Rhamnaceae/Colubrina/Colubrina_greggii",11,244,0.0450819672131148
+"4173","Tamaulipas",835,"23.0575","Dendropanax","Dendropanax arboreus","Araliaceae/Dendropanax/Dendropanax_arboreus",3,244,0.0122950819672131
+"4176","Tamaulipas",835,"23.0575","BignoniaceaeIndet.","NULL","Bignoniaceae/BignoniaceaeIndet/BignoniaceaeIndet_sp1",4,244,0.0163934426229508
+"4180","Tamaulipas",835,"23.0575","Bauhinia","NULL","Fabaceae/Bauhinia/Bauhinia_sp1",17,244,0.069672131147541
+"4182","Tamaulipas",835,"23.0575","Mikania","NULL","Asteraceae/Mikania/Mikania_sp2",22,244,0.0901639344262295
+"4183","Tamaulipas",835,"23.0575","Wimmeria","Wimmeria concolor","Celastraceae/Wimmeria/Wimmeria_concolor",20,244,0.0819672131147541
+"4188","Tamaulipas",835,"23.0575","Eugenia","NULL","Myrtaceae/Eugenia/Eugenia_sp3",2,244,0.00819672131147541
+"4197","Tamaulipas",835,"23.0575","Trichilia","Trichilia hirta","Meliaceae/Trichilia/Trichilia_hirta",7,244,0.0286885245901639
+"4198","Tamaulipas",835,"23.0575","Chione","Chione venosa","Rubiaceae/Chione/Chione_venosa",12,244,0.0491803278688525
+"4200","Tamaulipas",835,"23.0575","Trichilia","Trichilia havanensis","Meliaceae/Trichilia/Trichilia_havanensis",3,244,0.0122950819672131
+"4201","Tamaulipas",835,"23.0575","Cnidoscolus","Cnidoscolus multilobus","Euphorbiaceae/Cnidoscolus/Cnidoscolus_multilobus",5,244,0.0204918032786885
+"4202","Tamaulipas",835,"23.0575","Eugenia","NULL","Myrtaceae/Eugenia/Eugenia_sp1",8,244,0.0327868852459016
+"4204","Tamaulipas",835,"23.0575","Quercus","Quercus rysophylla","Fagaceae/Quercus/Quercus_rysophylla",3,244,0.0122950819672131
+"4206","Tamaulipas",835,"23.0575","AsteraceaeIndet.","NULL","Asteraceae/AsteraceaeIndet/AsteraceaeIndet_sp3",4,244,0.0163934426229508
+"4208","Tamaulipas",835,"23.0575","Tabernaemontana","NULL","Apocynaceae/Tabernaemontana/Tabernaemontana_sp1",3,244,0.0122950819672131
+"4219","Tamaulipas",835,"23.0575","Clethra","Clethra pringlei","Clethraceae/Clethra/Clethra_pringlei",13,244,0.0532786885245902
+"4220","Tamaulipas",835,"23.0575","Piper","NULL","Piperaceae/Piper/Piper_sp1",2,244,0.00819672131147541
+"4223","Tamaulipas",835,"23.0575","Hamelia","NULL","Rubiaceae/Hamelia/Hamelia_sp1",3,244,0.0122950819672131
+"4229","Tamaulipas",835,"23.0575","Persea","Persea liebmannii","Lauraceae/Persea/Persea_liebmannii",8,244,0.0327868852459016
+"4231","Tamaulipas",835,"23.0575","Ficus","Ficus pertusa","Moraceae/Ficus/Ficus_pertusa",1,244,0.00409836065573771
+"4237","Tamaulipas",835,"23.0575","Lonchocarpus","Lonchocarpus hidalgensis","Fabaceae/Lonchocarpus/Lonchocarpus_hidalgensis",4,244,0.0163934426229508
+"4238","Tamaulipas",835,"23.0575","Decatropis","Decatropis bicolor","Rutaceae/Decatropis/Decatropis_bicolor",4,244,0.0163934426229508
+"4256","Tamaulipas",835,"23.0575","Gymnanthes","Gymnanthes longipes","Euphorbiaceae/Gymnanthes/Gymnanthes_longipes",30,244,0.122950819672131
+"4258","Tamaulipas",835,"23.0575","Sapindus","Sapindus saponaria","Sapindaceae/Sapindus/Sapindus_saponaria",3,244,0.0122950819672131
+"4264","Tamaulipas",835,"23.0575","Paullinia","Paullinia tomentosa","Sapindaceae/Paullinia/Paullinia_tomentosa",1,244,0.00409836065573771
+"4270","Tamaulipas",835,"23.0575","Eugenia","NULL","Myrtaceae/Eugenia/Eugenia_sp2",2,244,0.00819672131147541
+"4278","Tamaulipas",835,"23.0575","Lysiloma","NULL","Fabaceae/Lysiloma/Lysiloma_sp1",1,244,0.00409836065573771
+"4281","Tamaulipas",835,"23.0575","Quercus","Quercus paxtalensis","Fagaceae/Quercus/Quercus_paxtalensis",1,244,0.00409836065573771
+"4282","Tamaulipas",835,"23.0575","Drypetes","Drypetes lateriflora","Putranjivaceae/Drypetes/Drypetes_lateriflora",7,244,0.0286885245901639
+"4302","Tamaulipas",835,"23.0575","Prunus","Prunus rhamnoides","Rosaceae/Prunus/Prunus_rhamnoides",1,244,0.00409836065573771
+"4304","Tamaulipas",835,"23.0575","Cinnamomum","Cinnamomum pachypodum","Lauraceae/Cinnamomum/Cinnamomum_pachypodum",2,244,0.00819672131147541
+"4330","Tamaulipas",835,"23.0575","Parthenocissus","Parthenocissus quinquefolia","Vitaceae/Parthenocissus/Parthenocissus_quinquefolia",2,244,0.00819672131147541
+"4363","Tamaulipas",835,"23.0575","Randia","NULL","Rubiaceae/Randia/Randia_sp2",3,244,0.0122950819672131
+"4386","Tamaulipas",835,"23.0575","Solanum","NULL","Solanaceae/Solanum/Solanum_sp1",1,244,0.00409836065573771
+"4411","Tamaulipas",1205,"23.0345","Randia","NULL","Rubiaceae/Randia/Randia_sp1",2,178,0.0112359550561798
+"4412","Tamaulipas",1205,"23.0345","Vitis","Vitis cinerea","Vitaceae/Vitis/Vitis_cinerea",7,178,0.0393258426966292
+"4413","Tamaulipas",1205,"23.0345","VerbenaceaeIndet.","NULL","Verbenaceae/VerbenaceaeIndet/VerbenaceaeIndet_sp1",4,178,0.0224719101123595
+"4414","Tamaulipas",1205,"23.0345","Lysiloma","NULL","Fabaceae/Lysiloma/Lysiloma_sp2",9,178,0.050561797752809
+"4415","Tamaulipas",1205,"23.0345","Mikania","NULL","Asteraceae/Mikania/Mikania_sp1",21,178,0.117977528089888
+"4417","Tamaulipas",1205,"23.0345","Berberis","Berberis hartwegii","Berberidaceae/Berberis/Berberis_hartwegii",1,178,0.00561797752808989
+"4419","Tamaulipas",1205,"23.0345","Gymnanthes","Gymnanthes longipes","Euphorbiaceae/Gymnanthes/Gymnanthes_longipes",14,178,0.0786516853932584
+"4420","Tamaulipas",1205,"23.0345","Persea","Persea americana","Lauraceae/Persea/Persea_americana",11,178,0.0617977528089888
+"4423","Tamaulipas",1205,"23.0345","Cnidoscolus","Cnidoscolus multilobus","Euphorbiaceae/Cnidoscolus/Cnidoscolus_multilobus",6,178,0.0337078651685393
+"4427","Tamaulipas",1205,"23.0345","Wimmeria","Wimmeria concolor","Celastraceae/Wimmeria/Wimmeria_concolor",2,178,0.0112359550561798
+"4428","Tamaulipas",1205,"23.0345","Cercis","Cercis canadensis","Fabaceae/Cercis/Cercis_canadensis",4,178,0.0224719101123595
+"4429","Tamaulipas",1205,"23.0345","AsteraceaeIndet.","NULL","Asteraceae/AsteraceaeIndet/AsteraceaeIndet_sp4",2,178,0.0112359550561798
+"4430","Tamaulipas",1205,"23.0345","Philadelphus","Philadelphus coulteri","Hydrangeaceae/Philadelphus/Philadelphus_coulteri",1,178,0.00561797752808989
+"4431","Tamaulipas",1205,"23.0345","Persea","Persea liebmannii","Lauraceae/Persea/Persea_liebmannii",3,178,0.0168539325842697
+"4433","Tamaulipas",1205,"23.0345","Rhamnus","Rhamnus capreifolia","Rhamnaceae/Rhamnus/Rhamnus_capreifolia",3,178,0.0168539325842697
+"4438","Tamaulipas",1205,"23.0345","Ocotea","NULL","Lauraceae/Ocotea/Ocotea_sp1",6,178,0.0337078651685393
+"4439","Tamaulipas",1205,"23.0345","Ilex","Ilex discolor","Aquifoliaceae/Ilex/Ilex_discolor",5,178,0.0280898876404494
+"4441","Tamaulipas",1205,"23.0345","Myrsine","Myrsine juergensenii","Primulaceae/Myrsine/Myrsine_juergensenii",2,178,0.0112359550561798
+"4445","Tamaulipas",1205,"23.0345","Eugenia","NULL","Myrtaceae/Eugenia/Eugenia_sp1",26,178,0.146067415730337
+"4449","Tamaulipas",1205,"23.0345","Trichilia","Trichilia hirta","Meliaceae/Trichilia/Trichilia_hirta",1,178,0.00561797752808989
+"4451","Tamaulipas",1205,"23.0345","Quercus","Quercus germana","Fagaceae/Quercus/Quercus_germana",15,178,0.0842696629213483
+"4453","Tamaulipas",1205,"23.0345","Witheringia","Witheringia mexicana","Solanaceae/Witheringia/Witheringia_mexicana",1,178,0.00561797752808989
+"4461","Tamaulipas",1205,"23.0345","Quercus","Quercus paxtalensis","Fagaceae/Quercus/Quercus_paxtalensis",2,178,0.0112359550561798
+"4465","Tamaulipas",1205,"23.0345","Vitis","NULL","Vitaceae/Vitis/Vitis_sp1",1,178,0.00561797752808989
+"4467","Tamaulipas",1205,"23.0345","Sapindus","Sapindus saponaria","Sapindaceae/Sapindus/Sapindus_saponaria",4,178,0.0224719101123595
+"4476","Tamaulipas",1205,"23.0345","Lonchocarpus","Lonchocarpus hidalgensis","Fabaceae/Lonchocarpus/Lonchocarpus_hidalgensis",3,178,0.0168539325842697
+"4477","Tamaulipas",1205,"23.0345","Clethra","Clethra pringlei","Clethraceae/Clethra/Clethra_pringlei",5,178,0.0280898876404494
+"4479","Tamaulipas",1205,"23.0345","Morus","Morus celtidifolia","Moraceae/Morus/Morus_celtidifolia",4,178,0.0224719101123595
+"4483","Tamaulipas",1205,"23.0345","Chione","Chione venosa","Rubiaceae/Chione/Chione_venosa",1,178,0.00561797752808989
+"4488","Tamaulipas",1205,"23.0345","Trichilia","Trichilia havanensis","Meliaceae/Trichilia/Trichilia_havanensis",1,178,0.00561797752808989
+"4511","Tamaulipas",1205,"23.0345","AsteraceaeIndet.","NULL","Asteraceae/AsteraceaeIndet/AsteraceaeIndet_sp1",1,178,0.00561797752808989
+"4516","Tamaulipas",1205,"23.0345","Zanthoxylum","Zanthoxylum clava-herculis","Rutaceae/Zanthoxylum/Zanthoxylum_clava-herculis",1,178,0.00561797752808989
+"4536","Tamaulipas",1205,"23.0345","Quercus","Quercus rysophylla","Fagaceae/Quercus/Quercus_rysophylla",3,178,0.0168539325842697
+"4539","Tamaulipas",1205,"23.0345","Colubrina","Colubrina greggii","Rhamnaceae/Colubrina/Colubrina_greggii",1,178,0.00561797752808989
+"4540","Tamaulipas",1205,"23.0345","Pinus","Pinus montezumae","Pinaceae/Pinus/Pinus_montezumae",1,178,0.00561797752808989
+"4564","Tamaulipas",1205,"23.0345","Drypetes","Drypetes lateriflora","Putranjivaceae/Drypetes/Drypetes_lateriflora",1,178,0.00561797752808989
+"4570","Tamaulipas",1205,"23.0345","Liquidambar","Liquidambar styraciflua","Altingiaceae/Liquidambar/Liquidambar_styraciflua",1,178,0.00561797752808989
+"4574","Tamaulipas",1205,"23.0345","Prunus","Prunus serotina","Rosaceae/Prunus/Prunus_serotina",1,178,0.00561797752808989
+"4576","Tamaulipas",1205,"23.0345","Solanum","NULL","Solanaceae/Solanum/Solanum_sp1",1,178,0.00561797752808989
+"4589","Tamaulipas",1755,"23.0451","Berberis","Berberis gracilis","Berberidaceae/Berberis/Berberis_gracilis",3,297,0.0101010101010101
+"4590","Tamaulipas",1755,"23.0451","Cornus","Cornus excelsa","Cornaceae/Cornus/Cornus_excelsa",27,297,0.0909090909090909
+"4593","Tamaulipas",1755,"23.0451","Pinus","NULL","Pinaceae/Pinus/Pinus_sp1",1,297,0.00336700336700337
+"4594","Tamaulipas",1755,"23.0451","Rhus","Rhus trilobata","Anacardiaceae/Rhus/Rhus_trilobata",3,297,0.0101010101010101
+"4595","Tamaulipas",1755,"23.0451","Buddleja","Buddleja cordata","Scrophulariaceae/Buddleja/Buddleja_cordata",13,297,0.0437710437710438
+"4596","Tamaulipas",1755,"23.0451","Garrya","Garrya laurifolia","Garryaceae/Garrya/Garrya_laurifolia",3,297,0.0101010101010101
+"4599","Tamaulipas",1755,"23.0451","Ocotea","NULL","Lauraceae/Ocotea/Ocotea_sp1",2,297,0.00673400673400673
+"4601","Tamaulipas",1755,"23.0451","Clethra","Clethra pringlei","Clethraceae/Clethra/Clethra_pringlei",33,297,0.111111111111111
+"4603","Tamaulipas",1755,"23.0451","Pinus","Pinus patula","Pinaceae/Pinus/Pinus_patula",17,297,0.0572390572390572
+"4604","Tamaulipas",1755,"23.0451","Ternstroemia","Ternstroemia sylvatica","Pentaphylacaceae/Ternstroemia/Ternstroemia_sylvatica",49,297,0.164983164983165
+"4605","Tamaulipas",1755,"23.0451","Myrsine","Myrsine juergensenii","Primulaceae/Myrsine/Myrsine_juergensenii",11,297,0.037037037037037
+"4606","Tamaulipas",1755,"23.0451","Carya","Carya ovata","Juglandaceae/Carya/Carya_ovata",7,297,0.0235690235690236
+"4607","Tamaulipas",1755,"23.0451","Ilex","Ilex discolor","Aquifoliaceae/Ilex/Ilex_discolor",2,297,0.00673400673400673
+"4611","Tamaulipas",1755,"23.0451","Persea","Persea americana","Lauraceae/Persea/Persea_americana",24,297,0.0808080808080808
+"4614","Tamaulipas",1755,"23.0451","Quercus","Quercus affinis","Fagaceae/Quercus/Quercus_affinis",28,297,0.0942760942760943
+"4631","Tamaulipas",1755,"23.0451","Styrax","Styrax argenteus","Styracaceae/Styrax/Styrax_argenteus",1,297,0.00336700336700337
+"4633","Tamaulipas",1755,"23.0451","Senna","NULL","Fabaceae/Senna/Senna_sp1",5,297,0.0168350168350168
+"4634","Tamaulipas",1755,"23.0451","AsteraceaeIndet.","NULL","Asteraceae/AsteraceaeIndet/AsteraceaeIndet_sp1",3,297,0.0101010101010101
+"4635","Tamaulipas",1755,"23.0451","Quercus","Quercus sartorii","Fagaceae/Quercus/Quercus_sartorii",2,297,0.00673400673400673
+"4639","Tamaulipas",1755,"23.0451","Cestrum","NULL","Solanaceae/Cestrum/Cestrum_sp1",1,297,0.00336700336700337
+"4651","Tamaulipas",1755,"23.0451","Vitis","NULL","Vitaceae/Vitis/Vitis_sp2",6,297,0.0202020202020202
+"4653","Tamaulipas",1755,"23.0451","Cornus","Cornus disciflora","Cornaceae/Cornus/Cornus_disciflora",24,297,0.0808080808080808
+"4668","Tamaulipas",1755,"23.0451","Staphylea","Staphylea occidentalis","Staphyleaceae/Staphylea/Staphylea_occidentalis",13,297,0.0437710437710438
+"4684","Tamaulipas",1755,"23.0451","Tilia","Tilia americana","Malvaceae/Tilia/Tilia_americana",11,297,0.037037037037037
+"4703","Tamaulipas",1755,"23.0451","Prunus","Prunus serotina","Rosaceae/Prunus/Prunus_serotina",2,297,0.00673400673400673
+"4720","Tamaulipas",1755,"23.0451","Crataegus","NULL","Rosaceae/Crataegus/Crataegus_sp1",2,297,0.00673400673400673
+"4751","Tamaulipas",1755,"23.0451","Osmanthus","Osmanthus americana","Oleaceae/Osmanthus/Osmanthus_americana",2,297,0.00673400673400673
+"4808","Tamaulipas",1755,"23.0451","AsteraceaeIndet.","NULL","Asteraceae/AsteraceaeIndet/AsteraceaeIndet_sp2",1,297,0.00336700336700337
+"4872","Tamaulipas",1755,"23.0451","Philadelphus","Philadelphus coulteri","Hydrangeaceae/Philadelphus/Philadelphus_coulteri",1,297,0.00336700336700337
+"4886","Tamaulipas",2060,"23.0413","Ternstroemia","Ternstroemia sylvatica","Pentaphylacaceae/Ternstroemia/Ternstroemia_sylvatica",72,295,0.24406779661017
+"4887","Tamaulipas",2060,"23.0413","Clematis","Clematis dioica","Ranunculaceae/Clematis/Clematis_dioica",8,295,0.0271186440677966
+"4888","Tamaulipas",2060,"23.0413","Pinus","NULL","Pinaceae/Pinus/Pinus_sp1",4,295,0.0135593220338983
+"4891","Tamaulipas",2060,"23.0413","Vitis","NULL","Vitaceae/Vitis/Vitis_sp2",4,295,0.0135593220338983
+"4892","Tamaulipas",2060,"23.0413","Cinnamomum","Cinnamomum pachypodum","Lauraceae/Cinnamomum/Cinnamomum_pachypodum",10,295,0.0338983050847458
+"4893","Tamaulipas",2060,"23.0413","Cornus","Cornus disciflora","Cornaceae/Cornus/Cornus_disciflora",16,295,0.0542372881355932
+"4894","Tamaulipas",2060,"23.0413","Garrya","Garrya laurifolia","Garryaceae/Garrya/Garrya_laurifolia",28,295,0.0949152542372881
+"4899","Tamaulipas",2060,"23.0413","Ilex","NULL","Aquifoliaceae/Ilex/Ilex_sp1",3,295,0.0101694915254237
+"4906","Tamaulipas",2060,"23.0413","Ocotea","NULL","Lauraceae/Ocotea/Ocotea_sp1",23,295,0.0779661016949153
+"4913","Tamaulipas",2060,"23.0413","Litsea","Litsea glaucescens","Lauraceae/Litsea/Litsea_glaucescens",2,295,0.00677966101694915
+"4915","Tamaulipas",2060,"23.0413","Quercus","Quercus affinis","Fagaceae/Quercus/Quercus_affinis",26,295,0.088135593220339
+"4916","Tamaulipas",2060,"23.0413","Tilia","Tilia americana","Malvaceae/Tilia/Tilia_americana",4,295,0.0135593220338983
+"4920","Tamaulipas",2060,"23.0413","Cornus","Cornus excelsa","Cornaceae/Cornus/Cornus_excelsa",17,295,0.0576271186440678
+"4928","Tamaulipas",2060,"23.0413","Persea","Persea americana","Lauraceae/Persea/Persea_americana",20,295,0.0677966101694915
+"4931","Tamaulipas",2060,"23.0413","Cercocarpus","Cercocarpus macrophyllus","Rosaceae/Cercocarpus/Cercocarpus_macrophyllus",10,295,0.0338983050847458
+"4940","Tamaulipas",2060,"23.0413","Quercus","Quercus castanea","Fagaceae/Quercus/Quercus_castanea",4,295,0.0135593220338983
+"4941","Tamaulipas",2060,"23.0413","Arbutus","Arbutus xalapensis","Ericaceae/Arbutus/Arbutus_xalapensis",4,295,0.0135593220338983
+"4942","Tamaulipas",2060,"23.0413","Philadelphus","Philadelphus coulteri","Hydrangeaceae/Philadelphus/Philadelphus_coulteri",1,295,0.00338983050847458
+"4947","Tamaulipas",2060,"23.0413","Crataegus","NULL","Rosaceae/Crataegus/Crataegus_sp1",2,295,0.00677966101694915
+"4948","Tamaulipas",2060,"23.0413","Styrax","Styrax argenteus","Styracaceae/Styrax/Styrax_argenteus",15,295,0.0508474576271186
+"4949","Tamaulipas",2060,"23.0413","Prunus","Prunus serotina","Rosaceae/Prunus/Prunus_serotina",1,295,0.00338983050847458
+"4972","Tamaulipas",2060,"23.0413","Rhus","Rhus trilobata","Anacardiaceae/Rhus/Rhus_trilobata",9,295,0.0305084745762712
+"4977","Tamaulipas",2060,"23.0413","Garrya","Garrya glaberrima","Garryaceae/Garrya/Garrya_glaberrima",3,295,0.0101694915254237
+"4997","Tamaulipas",2060,"23.0413","Pinus","Pinus patula","Pinaceae/Pinus/Pinus_patula",2,295,0.00677966101694915
+"5007","Tamaulipas",2060,"23.0413","Persea","Persea liebmannii","Lauraceae/Persea/Persea_liebmannii",2,295,0.00677966101694915
+"5024","Tamaulipas",2060,"23.0413","Clethra","Clethra pringlei","Clethraceae/Clethra/Clethra_pringlei",1,295,0.00338983050847458
+"5032","Tamaulipas",2060,"23.0413","Berberis","Berberis gracilis","Berberidaceae/Berberis/Berberis_gracilis",1,295,0.00338983050847458
+"5045","Tamaulipas",2060,"23.0413","Magnolia","Magnolia tamaulipana","Magnoliaceae/Magnolia/Magnolia_tamaulipana",1,295,0.00338983050847458
+"5102","Tamaulipas",2060,"23.0413","Carya","Carya ovata","Juglandaceae/Carya/Carya_ovata",1,295,0.00338983050847458
+"5118","Tamaulipas",2060,"23.0413","Rhus","Rhus virens","Anacardiaceae/Rhus/Rhus_virens",1,295,0.00338983050847458
+"5181","Tamaulipas",2260,"23.5785","Quercus","NULL","Fagaceae/Quercus/Quercus_sp1",11,76,0.144736842105263
+"5182","Tamaulipas",2260,"23.5785","Purshia","Purshia plicata","Rosaceae/Purshia/Purshia_plicata",1,76,0.0131578947368421
+"5187","Tamaulipas",2260,"23.5785","Vauquelinia","Vauquelinia corymbosa","Rosaceae/Vauquelinia/Vauquelinia_corymbosa",1,76,0.0131578947368421
+"5188","Tamaulipas",2260,"23.5785","Rhus","Rhus virens","Anacardiaceae/Rhus/Rhus_virens",10,76,0.131578947368421
+"5194","Tamaulipas",2260,"23.5785","Cercocarpus","NULL","Rosaceae/Cercocarpus/Cercocarpus_sp1",4,76,0.0526315789473684
+"5205","Tamaulipas",2260,"23.5785","Cercocarpus","Cercocarpus mojadensis","Rosaceae/Cercocarpus/Cercocarpus_mojadensis",1,76,0.0131578947368421
+"5206","Tamaulipas",2260,"23.5785","Dasylirion","Dasylirion longissimum","Asparagaceae/Dasylirion/Dasylirion_longissimum",23,76,0.302631578947368
+"5217","Tamaulipas",2260,"23.5785","Dasylirion","Dasylirion texanum","Asparagaceae/Dasylirion/Dasylirion_texanum",1,76,0.0131578947368421
+"5219","Tamaulipas",2260,"23.5785","Nolina","Nolina parviflora","Asparagaceae/Nolina/Nolina_parviflora",1,76,0.0131578947368421
+"5232","Tamaulipas",2260,"23.5785","Pinus","Pinus cembroides","Pinaceae/Pinus/Pinus_cembroides",23,76,0.302631578947368
+"5257","Tamaulipas",2800,"23.6277","Quercus","Quercus miquihuanensis","Fagaceae/Quercus/Quercus_miquihuanensis",26,101,0.257425742574257
+"5258","Tamaulipas",2800,"23.6277","Nolina","Nolina parviflora","Asparagaceae/Nolina/Nolina_parviflora",9,101,0.0891089108910891
+"5275","Tamaulipas",2800,"23.6277","Pinus","Pinus montezumae","Pinaceae/Pinus/Pinus_montezumae",2,101,0.0198019801980198
+"5283","Tamaulipas",2800,"23.6277","Arbutus","Arbutus xalapensis","Ericaceae/Arbutus/Arbutus_xalapensis",9,101,0.0891089108910891
+"5292","Tamaulipas",2800,"23.6277","Arbutus","Arbutus arizonica","Ericaceae/Arbutus/Arbutus_arizonica",17,101,0.168316831683168
+"5293","Tamaulipas",2800,"23.6277","Quercus","NULL","Fagaceae/Quercus/Quercus_sp1",1,101,0.0099009900990099
+"5294","Tamaulipas",2800,"23.6277","Pinus","Pinus teocote","Pinaceae/Pinus/Pinus_teocote",27,101,0.267326732673267
+"5305","Tamaulipas",2800,"23.6277","Cercocarpus","Cercocarpus macrophyllus","Rosaceae/Cercocarpus/Cercocarpus_macrophyllus",2,101,0.0198019801980198
+"5342","Tamaulipas",2800,"23.6277","Pinus","Pinus hartwegii","Pinaceae/Pinus/Pinus_hartwegii",8,101,0.0792079207920792
+"5358","Tamaulipas",3200,"23.6632","Pinus","Pinus hartwegii","Pinaceae/Pinus/Pinus_hartwegii",52,52,1
